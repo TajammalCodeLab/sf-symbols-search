@@ -1,0 +1,6690 @@
+[
+  {
+    "name": "square.and.arrow.up",
+    "img": "glyphs_white/square.and.arrow.up.png"
+  },
+  {
+    "name": "square.and.arrow.up.fill",
+    "img": "glyphs_white/square.and.arrow.up.fill.png"
+  },
+  {
+    "name": "square.and.arrow.down",
+    "img": "glyphs_white/square.and.arrow.down.png"
+  },
+  {
+    "name": "square.and.arrow.down.fill",
+    "img": "glyphs_white/square.and.arrow.down.fill.png"
+  },
+  {
+    "name": "square.and.arrow.up.on.square",
+    "img": "glyphs_white/square.and.arrow.up.on.square.png"
+  },
+  {
+    "name": "square.and.arrow.up.on.square.fill",
+    "img": "glyphs_white/square.and.arrow.up.on.square.fill.png"
+  },
+  {
+    "name": "square.and.arrow.down.on.square",
+    "img": "glyphs_white/square.and.arrow.down.on.square.png"
+  },
+  {
+    "name": "square.and.arrow.down.on.square.fill",
+    "img": "glyphs_white/square.and.arrow.down.on.square.fill.png"
+  },
+  {
+    "name": "pencil",
+    "img": "glyphs_white/pencil.png"
+  },
+  {
+    "name": "pencil.circle",
+    "img": "glyphs_white/pencil.circle.png"
+  },
+  {
+    "name": "pencil.circle.fill",
+    "img": "glyphs_white/pencil.circle.fill.png"
+  },
+  {
+    "name": "pencil.slash",
+    "img": "glyphs_white/pencil.slash.png"
+  },
+  {
+    "name": "square.and.pencil",
+    "img": "glyphs_white/square.and.pencil.png"
+  },
+  {
+    "name": "pencil.and.ellipsis.rectangle",
+    "img": "glyphs_white/pencil.and.ellipsis.rectangle.png"
+  },
+  {
+    "name": "pencil.and.outline",
+    "img": "glyphs_white/pencil.and.outline.png"
+  },
+  {
+    "name": "trash",
+    "img": "glyphs_white/trash.png"
+  },
+  {
+    "name": "trash.fill",
+    "img": "glyphs_white/trash.fill.png"
+  },
+  {
+    "name": "trash.circle",
+    "img": "glyphs_white/trash.circle.png"
+  },
+  {
+    "name": "trash.circle.fill",
+    "img": "glyphs_white/trash.circle.fill.png"
+  },
+  {
+    "name": "trash.slash",
+    "img": "glyphs_white/trash.slash.png"
+  },
+  {
+    "name": "trash.slash.fill",
+    "img": "glyphs_white/trash.slash.fill.png"
+  },
+  {
+    "name": "folder",
+    "img": "glyphs_white/folder.png"
+  },
+  {
+    "name": "folder.fill",
+    "img": "glyphs_white/folder.fill.png"
+  },
+  {
+    "name": "folder.circle",
+    "img": "glyphs_white/folder.circle.png"
+  },
+  {
+    "name": "folder.circle.fill",
+    "img": "glyphs_white/folder.circle.fill.png"
+  },
+  {
+    "name": "folder.badge.plus",
+    "img": "glyphs_white/folder.badge.plus.png"
+  },
+  {
+    "name": "folder.fill.badge.plus",
+    "img": "glyphs_white/folder.fill.badge.plus.png"
+  },
+  {
+    "name": "folder.badge.minus",
+    "img": "glyphs_white/folder.badge.minus.png"
+  },
+  {
+    "name": "folder.fill.badge.minus",
+    "img": "glyphs_white/folder.fill.badge.minus.png"
+  },
+  {
+    "name": "folder.badge.person.crop",
+    "img": "glyphs_white/folder.badge.person.crop.png"
+  },
+  {
+    "name": "folder.fill.badge.person.crop",
+    "img": "glyphs_white/folder.fill.badge.person.crop.png"
+  },
+  {
+    "name": "paperplane",
+    "img": "glyphs_white/paperplane.png"
+  },
+  {
+    "name": "paperplane.fill",
+    "img": "glyphs_white/paperplane.fill.png"
+  },
+  {
+    "name": "tray",
+    "img": "glyphs_white/tray.png"
+  },
+  {
+    "name": "tray.fill",
+    "img": "glyphs_white/tray.fill.png"
+  },
+  {
+    "name": "tray.and.arrow.up",
+    "img": "glyphs_white/tray.and.arrow.up.png"
+  },
+  {
+    "name": "tray.and.arrow.up.fill",
+    "img": "glyphs_white/tray.and.arrow.up.fill.png"
+  },
+  {
+    "name": "tray.and.arrow.down",
+    "img": "glyphs_white/tray.and.arrow.down.png"
+  },
+  {
+    "name": "tray.and.arrow.down.fill",
+    "img": "glyphs_white/tray.and.arrow.down.fill.png"
+  },
+  {
+    "name": "tray.2",
+    "img": "glyphs_white/tray.2.png"
+  },
+  {
+    "name": "tray.2.fill",
+    "img": "glyphs_white/tray.2.fill.png"
+  },
+  {
+    "name": "tray.full",
+    "img": "glyphs_white/tray.full.png"
+  },
+  {
+    "name": "tray.full.fill",
+    "img": "glyphs_white/tray.full.fill.png"
+  },
+  {
+    "name": "archivebox",
+    "img": "glyphs_white/archivebox.png"
+  },
+  {
+    "name": "archivebox.fill",
+    "img": "glyphs_white/archivebox.fill.png"
+  },
+  {
+    "name": "bin.xmark",
+    "img": "glyphs_white/bin.xmark.png"
+  },
+  {
+    "name": "bin.xmark.fill",
+    "img": "glyphs_white/bin.xmark.fill.png"
+  },
+  {
+    "name": "arrow.up.bin",
+    "img": "glyphs_white/arrow.up.bin.png"
+  },
+  {
+    "name": "arrow.up.bin.fill",
+    "img": "glyphs_white/arrow.up.bin.fill.png"
+  },
+  {
+    "name": "doc",
+    "img": "glyphs_white/doc.png"
+  },
+  {
+    "name": "doc.fill",
+    "img": "glyphs_white/doc.fill.png"
+  },
+  {
+    "name": "doc.circle",
+    "img": "glyphs_white/doc.circle.png"
+  },
+  {
+    "name": "doc.circle.fill",
+    "img": "glyphs_white/doc.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.doc",
+    "img": "glyphs_white/arrow.up.doc.png"
+  },
+  {
+    "name": "arrow.up.doc.fill",
+    "img": "glyphs_white/arrow.up.doc.fill.png"
+  },
+  {
+    "name": "arrow.down.doc",
+    "img": "glyphs_white/arrow.down.doc.png"
+  },
+  {
+    "name": "arrow.down.doc.fill",
+    "img": "glyphs_white/arrow.down.doc.fill.png"
+  },
+  {
+    "name": "doc.text",
+    "img": "glyphs_white/doc.text.png"
+  },
+  {
+    "name": "doc.text.fill",
+    "img": "glyphs_white/doc.text.fill.png"
+  },
+  {
+    "name": "doc.on.doc",
+    "img": "glyphs_white/doc.on.doc.png"
+  },
+  {
+    "name": "doc.on.doc.fill",
+    "img": "glyphs_white/doc.on.doc.fill.png"
+  },
+  {
+    "name": "doc.on.clipboard",
+    "img": "glyphs_white/doc.on.clipboard.png"
+  },
+  {
+    "name": "doc.on.clipboard.fill",
+    "img": "glyphs_white/doc.on.clipboard.fill.png"
+  },
+  {
+    "name": "doc.richtext",
+    "img": "glyphs_white/doc.richtext.png"
+  },
+  {
+    "name": "doc.plaintext",
+    "img": "glyphs_white/doc.plaintext.png"
+  },
+  {
+    "name": "doc.append",
+    "img": "glyphs_white/doc.append.png"
+  },
+  {
+    "name": "doc.text.magnifyingglass",
+    "img": "glyphs_white/doc.text.magnifyingglass.png"
+  },
+  {
+    "name": "calendar",
+    "img": "glyphs_white/calendar.png"
+  },
+  {
+    "name": "calendar.circle",
+    "img": "glyphs_white/calendar.circle.png"
+  },
+  {
+    "name": "calendar.circle.fill",
+    "img": "glyphs_white/calendar.circle.fill.png"
+  },
+  {
+    "name": "calendar.badge.plus",
+    "img": "glyphs_white/calendar.badge.plus.png"
+  },
+  {
+    "name": "calendar.badge.minus",
+    "img": "glyphs_white/calendar.badge.minus.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left",
+    "img": "glyphs_white/arrowshape.turn.up.left.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left.fill",
+    "img": "glyphs_white/arrowshape.turn.up.left.fill.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left.circle",
+    "img": "glyphs_white/arrowshape.turn.up.left.circle.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left.circle.fill",
+    "img": "glyphs_white/arrowshape.turn.up.left.circle.fill.png"
+  },
+  {
+    "name": "arrowshape.turn.up.right",
+    "img": "glyphs_white/arrowshape.turn.up.right.png"
+  },
+  {
+    "name": "arrowshape.turn.up.right.fill",
+    "img": "glyphs_white/arrowshape.turn.up.right.fill.png"
+  },
+  {
+    "name": "arrowshape.turn.up.right.circle",
+    "img": "glyphs_white/arrowshape.turn.up.right.circle.png"
+  },
+  {
+    "name": "arrowshape.turn.up.right.circle.fill",
+    "img": "glyphs_white/arrowshape.turn.up.right.circle.fill.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left.2",
+    "img": "glyphs_white/arrowshape.turn.up.left.2.png"
+  },
+  {
+    "name": "arrowshape.turn.up.left.2.fill",
+    "img": "glyphs_white/arrowshape.turn.up.left.2.fill.png"
+  },
+  {
+    "name": "book",
+    "img": "glyphs_white/book.png"
+  },
+  {
+    "name": "book.fill",
+    "img": "glyphs_white/book.fill.png"
+  },
+  {
+    "name": "book.circle",
+    "img": "glyphs_white/book.circle.png"
+  },
+  {
+    "name": "book.circle.fill",
+    "img": "glyphs_white/book.circle.fill.png"
+  },
+  {
+    "name": "bookmark",
+    "img": "glyphs_white/bookmark.png"
+  },
+  {
+    "name": "bookmark.fill",
+    "img": "glyphs_white/bookmark.fill.png"
+  },
+  {
+    "name": "rosette",
+    "img": "glyphs_white/rosette.png"
+  },
+  {
+    "name": "paperclip",
+    "img": "glyphs_white/paperclip.png"
+  },
+  {
+    "name": "paperclip.circle",
+    "img": "glyphs_white/paperclip.circle.png"
+  },
+  {
+    "name": "paperclip.circle.fill",
+    "img": "glyphs_white/paperclip.circle.fill.png"
+  },
+  {
+    "name": "rectangle.and.paperclip",
+    "img": "glyphs_white/rectangle.and.paperclip.png"
+  },
+  {
+    "name": "link",
+    "img": "glyphs_white/link.png"
+  },
+  {
+    "name": "link.circle",
+    "img": "glyphs_white/link.circle.png"
+  },
+  {
+    "name": "link.circle.fill",
+    "img": "glyphs_white/link.circle.fill.png"
+  },
+  {
+    "name": "personalhotspot",
+    "img": "glyphs_white/personalhotspot.png"
+  },
+  {
+    "name": "pencil.tip",
+    "img": "glyphs_white/pencil.tip.png"
+  },
+  {
+    "name": "pencil.tip.crop.circle",
+    "img": "glyphs_white/pencil.tip.crop.circle.png"
+  },
+  {
+    "name": "pencil.tip.crop.circle.badge.plus",
+    "img": "glyphs_white/pencil.tip.crop.circle.badge.plus.png"
+  },
+  {
+    "name": "pencil.tip.crop.circle.badge.minus",
+    "img": "glyphs_white/pencil.tip.crop.circle.badge.minus.png"
+  },
+  {
+    "name": "person",
+    "img": "glyphs_white/person.png"
+  },
+  {
+    "name": "person.fill",
+    "img": "glyphs_white/person.fill.png"
+  },
+  {
+    "name": "person.circle",
+    "img": "glyphs_white/person.circle.png"
+  },
+  {
+    "name": "person.circle.fill",
+    "img": "glyphs_white/person.circle.fill.png"
+  },
+  {
+    "name": "person.badge.plus",
+    "img": "glyphs_white/person.badge.plus.png"
+  },
+  {
+    "name": "person.badge.plus.fill",
+    "img": "glyphs_white/person.badge.plus.fill.png"
+  },
+  {
+    "name": "person.badge.minus",
+    "img": "glyphs_white/person.badge.minus.png"
+  },
+  {
+    "name": "person.badge.minus.fill",
+    "img": "glyphs_white/person.badge.minus.fill.png"
+  },
+  {
+    "name": "person.2",
+    "img": "glyphs_white/person.2.png"
+  },
+  {
+    "name": "person.2.fill",
+    "img": "glyphs_white/person.2.fill.png"
+  },
+  {
+    "name": "person.3",
+    "img": "glyphs_white/person.3.png"
+  },
+  {
+    "name": "person.3.fill",
+    "img": "glyphs_white/person.3.fill.png"
+  },
+  {
+    "name": "person.crop.circle",
+    "img": "glyphs_white/person.crop.circle.png"
+  },
+  {
+    "name": "person.crop.circle.fill",
+    "img": "glyphs_white/person.crop.circle.fill.png"
+  },
+  {
+    "name": "person.crop.circle.badge.plus",
+    "img": "glyphs_white/person.crop.circle.badge.plus.png"
+  },
+  {
+    "name": "person.crop.circle.fill.badge.plus",
+    "img": "glyphs_white/person.crop.circle.fill.badge.plus.png"
+  },
+  {
+    "name": "person.crop.circle.badge.minus",
+    "img": "glyphs_white/person.crop.circle.badge.minus.png"
+  },
+  {
+    "name": "person.crop.circle.fill.badge.minus",
+    "img": "glyphs_white/person.crop.circle.fill.badge.minus.png"
+  },
+  {
+    "name": "person.crop.circle.badge.checkmark",
+    "img": "glyphs_white/person.crop.circle.badge.checkmark.png"
+  },
+  {
+    "name": "person.crop.circle.fill.badge.checkmark",
+    "img": "glyphs_white/person.crop.circle.fill.badge.checkmark.png"
+  },
+  {
+    "name": "person.crop.circle.badge.xmark",
+    "img": "glyphs_white/person.crop.circle.badge.xmark.png"
+  },
+  {
+    "name": "person.crop.circle.fill.badge.xmark",
+    "img": "glyphs_white/person.crop.circle.fill.badge.xmark.png"
+  },
+  {
+    "name": "person.crop.circle.badge.exclam",
+    "img": "glyphs_white/person.crop.circle.badge.exclam.png"
+  },
+  {
+    "name": "person.crop.circle.fill.badge.exclam",
+    "img": "glyphs_white/person.crop.circle.fill.badge.exclam.png"
+  },
+  {
+    "name": "person.crop.square",
+    "img": "glyphs_white/person.crop.square.png"
+  },
+  {
+    "name": "person.crop.square.fill",
+    "img": "glyphs_white/person.crop.square.fill.png"
+  },
+  {
+    "name": "command",
+    "img": "glyphs_white/command.png"
+  },
+  {
+    "name": "option",
+    "img": "glyphs_white/option.png"
+  },
+  {
+    "name": "alt",
+    "img": "glyphs_white/alt.png"
+  },
+  {
+    "name": "delete.right",
+    "img": "glyphs_white/delete.right.png"
+  },
+  {
+    "name": "delete.right.fill",
+    "img": "glyphs_white/delete.right.fill.png"
+  },
+  {
+    "name": "clear",
+    "img": "glyphs_white/clear.png"
+  },
+  {
+    "name": "clear.fill",
+    "img": "glyphs_white/clear.fill.png"
+  },
+  {
+    "name": "delete.left",
+    "img": "glyphs_white/delete.left.png"
+  },
+  {
+    "name": "delete.left.fill",
+    "img": "glyphs_white/delete.left.fill.png"
+  },
+  {
+    "name": "shift",
+    "img": "glyphs_white/shift.png"
+  },
+  {
+    "name": "shift.fill",
+    "img": "glyphs_white/shift.fill.png"
+  },
+  {
+    "name": "capslock",
+    "img": "glyphs_white/capslock.png"
+  },
+  {
+    "name": "capslock.fill",
+    "img": "glyphs_white/capslock.fill.png"
+  },
+  {
+    "name": "escape",
+    "img": "glyphs_white/escape.png"
+  },
+  {
+    "name": "circle.bottomthird.split",
+    "img": "glyphs_white/circle.bottomthird.split.png"
+  },
+  {
+    "name": "power",
+    "img": "glyphs_white/power.png"
+  },
+  {
+    "name": "globe",
+    "img": "glyphs_white/globe.png"
+  },
+  {
+    "name": "sun.min",
+    "img": "glyphs_white/sun.min.png"
+  },
+  {
+    "name": "sun.min.fill",
+    "img": "glyphs_white/sun.min.fill.png"
+  },
+  {
+    "name": "sun.max",
+    "img": "glyphs_white/sun.max.png"
+  },
+  {
+    "name": "sun.max.fill",
+    "img": "glyphs_white/sun.max.fill.png"
+  },
+  {
+    "name": "sunrise",
+    "img": "glyphs_white/sunrise.png"
+  },
+  {
+    "name": "sunrise.fill",
+    "img": "glyphs_white/sunrise.fill.png"
+  },
+  {
+    "name": "sunset",
+    "img": "glyphs_white/sunset.png"
+  },
+  {
+    "name": "sunset.fill",
+    "img": "glyphs_white/sunset.fill.png"
+  },
+  {
+    "name": "sun.dust",
+    "img": "glyphs_white/sun.dust.png"
+  },
+  {
+    "name": "sun.dust.fill",
+    "img": "glyphs_white/sun.dust.fill.png"
+  },
+  {
+    "name": "sun.haze",
+    "img": "glyphs_white/sun.haze.png"
+  },
+  {
+    "name": "sun.haze.fill",
+    "img": "glyphs_white/sun.haze.fill.png"
+  },
+  {
+    "name": "moon",
+    "img": "glyphs_white/moon.png"
+  },
+  {
+    "name": "moon.fill",
+    "img": "glyphs_white/moon.fill.png"
+  },
+  {
+    "name": "moon.circle",
+    "img": "glyphs_white/moon.circle.png"
+  },
+  {
+    "name": "moon.circle.fill",
+    "img": "glyphs_white/moon.circle.fill.png"
+  },
+  {
+    "name": "zzz",
+    "img": "glyphs_white/zzz.png"
+  },
+  {
+    "name": "moon.zzz",
+    "img": "glyphs_white/moon.zzz.png"
+  },
+  {
+    "name": "moon.zzz.fill",
+    "img": "glyphs_white/moon.zzz.fill.png"
+  },
+  {
+    "name": "sparkles",
+    "img": "glyphs_white/sparkles.png"
+  },
+  {
+    "name": "moon.stars",
+    "img": "glyphs_white/moon.stars.png"
+  },
+  {
+    "name": "moon.stars.fill",
+    "img": "glyphs_white/moon.stars.fill.png"
+  },
+  {
+    "name": "cloud",
+    "img": "glyphs_white/cloud.png"
+  },
+  {
+    "name": "cloud.fill",
+    "img": "glyphs_white/cloud.fill.png"
+  },
+  {
+    "name": "cloud.drizzle",
+    "img": "glyphs_white/cloud.drizzle.png"
+  },
+  {
+    "name": "cloud.drizzle.fill",
+    "img": "glyphs_white/cloud.drizzle.fill.png"
+  },
+  {
+    "name": "cloud.rain",
+    "img": "glyphs_white/cloud.rain.png"
+  },
+  {
+    "name": "cloud.rain.fill",
+    "img": "glyphs_white/cloud.rain.fill.png"
+  },
+  {
+    "name": "cloud.heavyrain",
+    "img": "glyphs_white/cloud.heavyrain.png"
+  },
+  {
+    "name": "cloud.heavyrain.fill",
+    "img": "glyphs_white/cloud.heavyrain.fill.png"
+  },
+  {
+    "name": "cloud.fog",
+    "img": "glyphs_white/cloud.fog.png"
+  },
+  {
+    "name": "cloud.fog.fill",
+    "img": "glyphs_white/cloud.fog.fill.png"
+  },
+  {
+    "name": "cloud.hail",
+    "img": "glyphs_white/cloud.hail.png"
+  },
+  {
+    "name": "cloud.hail.fill",
+    "img": "glyphs_white/cloud.hail.fill.png"
+  },
+  {
+    "name": "cloud.snow",
+    "img": "glyphs_white/cloud.snow.png"
+  },
+  {
+    "name": "cloud.snow.fill",
+    "img": "glyphs_white/cloud.snow.fill.png"
+  },
+  {
+    "name": "cloud.sleet",
+    "img": "glyphs_white/cloud.sleet.png"
+  },
+  {
+    "name": "cloud.sleet.fill",
+    "img": "glyphs_white/cloud.sleet.fill.png"
+  },
+  {
+    "name": "cloud.bolt",
+    "img": "glyphs_white/cloud.bolt.png"
+  },
+  {
+    "name": "cloud.bolt.fill",
+    "img": "glyphs_white/cloud.bolt.fill.png"
+  },
+  {
+    "name": "cloud.sun",
+    "img": "glyphs_white/cloud.sun.png"
+  },
+  {
+    "name": "cloud.sun.fill",
+    "img": "glyphs_white/cloud.sun.fill.png"
+  },
+  {
+    "name": "cloud.sun.rain",
+    "img": "glyphs_white/cloud.sun.rain.png"
+  },
+  {
+    "name": "cloud.sun.rain.fill",
+    "img": "glyphs_white/cloud.sun.rain.fill.png"
+  },
+  {
+    "name": "cloud.sun.bolt",
+    "img": "glyphs_white/cloud.sun.bolt.png"
+  },
+  {
+    "name": "cloud.sun.bolt.fill",
+    "img": "glyphs_white/cloud.sun.bolt.fill.png"
+  },
+  {
+    "name": "cloud.moon",
+    "img": "glyphs_white/cloud.moon.png"
+  },
+  {
+    "name": "cloud.moon.fill",
+    "img": "glyphs_white/cloud.moon.fill.png"
+  },
+  {
+    "name": "cloud.moon.rain",
+    "img": "glyphs_white/cloud.moon.rain.png"
+  },
+  {
+    "name": "cloud.moon.rain.fill",
+    "img": "glyphs_white/cloud.moon.rain.fill.png"
+  },
+  {
+    "name": "cloud.bolt.rain",
+    "img": "glyphs_white/cloud.bolt.rain.png"
+  },
+  {
+    "name": "cloud.bolt.rain.fill",
+    "img": "glyphs_white/cloud.bolt.rain.fill.png"
+  },
+  {
+    "name": "cloud.moon.bolt",
+    "img": "glyphs_white/cloud.moon.bolt.png"
+  },
+  {
+    "name": "cloud.moon.bolt.fill",
+    "img": "glyphs_white/cloud.moon.bolt.fill.png"
+  },
+  {
+    "name": "smoke",
+    "img": "glyphs_white/smoke.png"
+  },
+  {
+    "name": "smoke.fill",
+    "img": "glyphs_white/smoke.fill.png"
+  },
+  {
+    "name": "wind",
+    "img": "glyphs_white/wind.png"
+  },
+  {
+    "name": "snow",
+    "img": "glyphs_white/snow.png"
+  },
+  {
+    "name": "wind.snow",
+    "img": "glyphs_white/wind.snow.png"
+  },
+  {
+    "name": "tornado",
+    "img": "glyphs_white/tornado.png"
+  },
+  {
+    "name": "tropicalstorm",
+    "img": "glyphs_white/tropicalstorm.png"
+  },
+  {
+    "name": "hurricane",
+    "img": "glyphs_white/hurricane.png"
+  },
+  {
+    "name": "thermometer.sun",
+    "img": "glyphs_white/thermometer.sun.png"
+  },
+  {
+    "name": "thermometer.snowflake",
+    "img": "glyphs_white/thermometer.snowflake.png"
+  },
+  {
+    "name": "thermometer",
+    "img": "glyphs_white/thermometer.png"
+  },
+  {
+    "name": "umbrella",
+    "img": "glyphs_white/umbrella.png"
+  },
+  {
+    "name": "umbrella.fill",
+    "img": "glyphs_white/umbrella.fill.png"
+  },
+  {
+    "name": "flame",
+    "img": "glyphs_white/flame.png"
+  },
+  {
+    "name": "flame.fill",
+    "img": "glyphs_white/flame.fill.png"
+  },
+  {
+    "name": "light.min",
+    "img": "glyphs_white/light.min.png"
+  },
+  {
+    "name": "light.max",
+    "img": "glyphs_white/light.max.png"
+  },
+  {
+    "name": "rays",
+    "img": "glyphs_white/rays.png"
+  },
+  {
+    "name": "cursor.rays",
+    "img": "glyphs_white/cursor.rays.png"
+  },
+  {
+    "name": "slowmo",
+    "img": "glyphs_white/slowmo.png"
+  },
+  {
+    "name": "timelapse",
+    "img": "glyphs_white/timelapse.png"
+  },
+  {
+    "name": "keyboard",
+    "img": "glyphs_white/keyboard.png"
+  },
+  {
+    "name": "keyboard.chevron.compact.down",
+    "img": "glyphs_white/keyboard.chevron.compact.down.png"
+  },
+  {
+    "name": "rectangle.3.offgrid",
+    "img": "glyphs_white/rectangle.3.offgrid.png"
+  },
+  {
+    "name": "rectangle.3.offgrid.fill",
+    "img": "glyphs_white/rectangle.3.offgrid.fill.png"
+  },
+  {
+    "name": "square.grid.3x2",
+    "img": "glyphs_white/square.grid.3x2.png"
+  },
+  {
+    "name": "square.grid.3x2.fill",
+    "img": "glyphs_white/square.grid.3x2.fill.png"
+  },
+  {
+    "name": "rectangle.grid.3x2",
+    "img": "glyphs_white/rectangle.grid.3x2.png"
+  },
+  {
+    "name": "rectangle.grid.3x2.fill",
+    "img": "glyphs_white/rectangle.grid.3x2.fill.png"
+  },
+  {
+    "name": "square.grid.2x2",
+    "img": "glyphs_white/square.grid.2x2.png"
+  },
+  {
+    "name": "square.grid.2x2.fill",
+    "img": "glyphs_white/square.grid.2x2.fill.png"
+  },
+  {
+    "name": "rectangle.grid.2x2",
+    "img": "glyphs_white/rectangle.grid.2x2.png"
+  },
+  {
+    "name": "rectangle.grid.2x2.fill",
+    "img": "glyphs_white/rectangle.grid.2x2.fill.png"
+  },
+  {
+    "name": "square.grid.4x3.fill",
+    "img": "glyphs_white/square.grid.4x3.fill.png"
+  },
+  {
+    "name": "rectangle.grid.1x2",
+    "img": "glyphs_white/rectangle.grid.1x2.png"
+  },
+  {
+    "name": "rectangle.grid.1x2.fill",
+    "img": "glyphs_white/rectangle.grid.1x2.fill.png"
+  },
+  {
+    "name": "circle.grid.2x2",
+    "img": "glyphs_white/circle.grid.2x2.png"
+  },
+  {
+    "name": "circle.grid.2x2.fill",
+    "img": "glyphs_white/circle.grid.2x2.fill.png"
+  },
+  {
+    "name": "circle.grid.3x3",
+    "img": "glyphs_white/circle.grid.3x3.png"
+  },
+  {
+    "name": "circle.grid.3x3.fill",
+    "img": "glyphs_white/circle.grid.3x3.fill.png"
+  },
+  {
+    "name": "circle.grid.hex",
+    "img": "glyphs_white/circle.grid.hex.png"
+  },
+  {
+    "name": "circle.grid.hex.fill",
+    "img": "glyphs_white/circle.grid.hex.fill.png"
+  },
+  {
+    "name": "checkmark.seal",
+    "img": "glyphs_white/checkmark.seal.png"
+  },
+  {
+    "name": "checkmark.seal.fill",
+    "img": "glyphs_white/checkmark.seal.fill.png"
+  },
+  {
+    "name": "xmark.seal",
+    "img": "glyphs_white/xmark.seal.png"
+  },
+  {
+    "name": "xmark.seal.fill",
+    "img": "glyphs_white/xmark.seal.fill.png"
+  },
+  {
+    "name": "exclamationmark.triangle",
+    "img": "glyphs_white/exclamationmark.triangle.png"
+  },
+  {
+    "name": "exclamationmark.triangle.fill",
+    "img": "glyphs_white/exclamationmark.triangle.fill.png"
+  },
+  {
+    "name": "drop.triangle",
+    "img": "glyphs_white/drop.triangle.png"
+  },
+  {
+    "name": "drop.triangle.fill",
+    "img": "glyphs_white/drop.triangle.fill.png"
+  },
+  {
+    "name": "play",
+    "img": "glyphs_white/play.png"
+  },
+  {
+    "name": "play.fill",
+    "img": "glyphs_white/play.fill.png"
+  },
+  {
+    "name": "play.circle",
+    "img": "glyphs_white/play.circle.png"
+  },
+  {
+    "name": "play.circle.fill",
+    "img": "glyphs_white/play.circle.fill.png"
+  },
+  {
+    "name": "play.rectangle",
+    "img": "glyphs_white/play.rectangle.png"
+  },
+  {
+    "name": "play.rectangle.fill",
+    "img": "glyphs_white/play.rectangle.fill.png"
+  },
+  {
+    "name": "pause",
+    "img": "glyphs_white/pause.png"
+  },
+  {
+    "name": "pause.fill",
+    "img": "glyphs_white/pause.fill.png"
+  },
+  {
+    "name": "pause.circle",
+    "img": "glyphs_white/pause.circle.png"
+  },
+  {
+    "name": "pause.circle.fill",
+    "img": "glyphs_white/pause.circle.fill.png"
+  },
+  {
+    "name": "pause.rectangle",
+    "img": "glyphs_white/pause.rectangle.png"
+  },
+  {
+    "name": "pause.rectangle.fill",
+    "img": "glyphs_white/pause.rectangle.fill.png"
+  },
+  {
+    "name": "stop",
+    "img": "glyphs_white/stop.png"
+  },
+  {
+    "name": "stop.fill",
+    "img": "glyphs_white/stop.fill.png"
+  },
+  {
+    "name": "stop.circle",
+    "img": "glyphs_white/stop.circle.png"
+  },
+  {
+    "name": "stop.circle.fill",
+    "img": "glyphs_white/stop.circle.fill.png"
+  },
+  {
+    "name": "playpause",
+    "img": "glyphs_white/playpause.png"
+  },
+  {
+    "name": "playpause.fill",
+    "img": "glyphs_white/playpause.fill.png"
+  },
+  {
+    "name": "backward",
+    "img": "glyphs_white/backward.png"
+  },
+  {
+    "name": "backward.fill",
+    "img": "glyphs_white/backward.fill.png"
+  },
+  {
+    "name": "forward",
+    "img": "glyphs_white/forward.png"
+  },
+  {
+    "name": "forward.fill",
+    "img": "glyphs_white/forward.fill.png"
+  },
+  {
+    "name": "backward.end",
+    "img": "glyphs_white/backward.end.png"
+  },
+  {
+    "name": "backward.end.fill",
+    "img": "glyphs_white/backward.end.fill.png"
+  },
+  {
+    "name": "forward.end",
+    "img": "glyphs_white/forward.end.png"
+  },
+  {
+    "name": "forward.end.fill",
+    "img": "glyphs_white/forward.end.fill.png"
+  },
+  {
+    "name": "backward.end.alt",
+    "img": "glyphs_white/backward.end.alt.png"
+  },
+  {
+    "name": "backward.end.alt.fill",
+    "img": "glyphs_white/backward.end.alt.fill.png"
+  },
+  {
+    "name": "forward.end.alt",
+    "img": "glyphs_white/forward.end.alt.png"
+  },
+  {
+    "name": "forward.end.alt.fill",
+    "img": "glyphs_white/forward.end.alt.fill.png"
+  },
+  {
+    "name": "eject",
+    "img": "glyphs_white/eject.png"
+  },
+  {
+    "name": "eject.fill",
+    "img": "glyphs_white/eject.fill.png"
+  },
+  {
+    "name": "memories",
+    "img": "glyphs_white/memories.png"
+  },
+  {
+    "name": "memories.badge.plus",
+    "img": "glyphs_white/memories.badge.plus.png"
+  },
+  {
+    "name": "memories.badge.minus",
+    "img": "glyphs_white/memories.badge.minus.png"
+  },
+  {
+    "name": "shuffle",
+    "img": "glyphs_white/shuffle.png"
+  },
+  {
+    "name": "repeat",
+    "img": "glyphs_white/repeat.png"
+  },
+  {
+    "name": "repeat.1",
+    "img": "glyphs_white/repeat.1.png"
+  },
+  {
+    "name": "speaker",
+    "img": "glyphs_white/speaker.png"
+  },
+  {
+    "name": "speaker.fill",
+    "img": "glyphs_white/speaker.fill.png"
+  },
+  {
+    "name": "speaker.slash",
+    "img": "glyphs_white/speaker.slash.png"
+  },
+  {
+    "name": "speaker.slash.fill",
+    "img": "glyphs_white/speaker.slash.fill.png"
+  },
+  {
+    "name": "speaker.zzz",
+    "img": "glyphs_white/speaker.zzz.png"
+  },
+  {
+    "name": "speaker.zzz.fill",
+    "img": "glyphs_white/speaker.zzz.fill.png"
+  },
+  {
+    "name": "speaker.1",
+    "img": "glyphs_white/speaker.1.png"
+  },
+  {
+    "name": "speaker.1.fill",
+    "img": "glyphs_white/speaker.1.fill.png"
+  },
+  {
+    "name": "speaker.2",
+    "img": "glyphs_white/speaker.2.png"
+  },
+  {
+    "name": "speaker.2.fill",
+    "img": "glyphs_white/speaker.2.fill.png"
+  },
+  {
+    "name": "speaker.3",
+    "img": "glyphs_white/speaker.3.png"
+  },
+  {
+    "name": "speaker.3.fill",
+    "img": "glyphs_white/speaker.3.fill.png"
+  },
+  {
+    "name": "badge.plus.radiowaves.right",
+    "img": "glyphs_white/badge.plus.radiowaves.right.png"
+  },
+  {
+    "name": "music.note",
+    "img": "glyphs_white/music.note.png"
+  },
+  {
+    "name": "music.mic",
+    "img": "glyphs_white/music.mic.png"
+  },
+  {
+    "name": "music.note.list",
+    "img": "glyphs_white/music.note.list.png"
+  },
+  {
+    "name": "goforward",
+    "img": "glyphs_white/goforward.png"
+  },
+  {
+    "name": "gobackward",
+    "img": "glyphs_white/gobackward.png"
+  },
+  {
+    "name": "goforward.10",
+    "img": "glyphs_white/goforward.10.png"
+  },
+  {
+    "name": "gobackward.10",
+    "img": "glyphs_white/gobackward.10.png"
+  },
+  {
+    "name": "goforward.15",
+    "img": "glyphs_white/goforward.15.png"
+  },
+  {
+    "name": "gobackward.15",
+    "img": "glyphs_white/gobackward.15.png"
+  },
+  {
+    "name": "goforward.30",
+    "img": "glyphs_white/goforward.30.png"
+  },
+  {
+    "name": "gobackward.30",
+    "img": "glyphs_white/gobackward.30.png"
+  },
+  {
+    "name": "goforward.45",
+    "img": "glyphs_white/goforward.45.png"
+  },
+  {
+    "name": "gobackward.45",
+    "img": "glyphs_white/gobackward.45.png"
+  },
+  {
+    "name": "goforward.60",
+    "img": "glyphs_white/goforward.60.png"
+  },
+  {
+    "name": "gobackward.60",
+    "img": "glyphs_white/gobackward.60.png"
+  },
+  {
+    "name": "goforward.75",
+    "img": "glyphs_white/goforward.75.png"
+  },
+  {
+    "name": "gobackward.75",
+    "img": "glyphs_white/gobackward.75.png"
+  },
+  {
+    "name": "goforward.90",
+    "img": "glyphs_white/goforward.90.png"
+  },
+  {
+    "name": "gobackward.90",
+    "img": "glyphs_white/gobackward.90.png"
+  },
+  {
+    "name": "goforward.10.ar",
+    "img": "glyphs_white/goforward.10.ar.png"
+  },
+  {
+    "name": "gobackward.10.ar",
+    "img": "glyphs_white/gobackward.10.ar.png"
+  },
+  {
+    "name": "goforward.15.ar",
+    "img": "glyphs_white/goforward.15.ar.png"
+  },
+  {
+    "name": "gobackward.15.ar",
+    "img": "glyphs_white/gobackward.15.ar.png"
+  },
+  {
+    "name": "goforward.30.ar",
+    "img": "glyphs_white/goforward.30.ar.png"
+  },
+  {
+    "name": "gobackward.30.ar",
+    "img": "glyphs_white/gobackward.30.ar.png"
+  },
+  {
+    "name": "goforward.45.ar",
+    "img": "glyphs_white/goforward.45.ar.png"
+  },
+  {
+    "name": "gobackward.45.ar",
+    "img": "glyphs_white/gobackward.45.ar.png"
+  },
+  {
+    "name": "goforward.60.ar",
+    "img": "glyphs_white/goforward.60.ar.png"
+  },
+  {
+    "name": "gobackward.60.ar",
+    "img": "glyphs_white/gobackward.60.ar.png"
+  },
+  {
+    "name": "goforward.75.ar",
+    "img": "glyphs_white/goforward.75.ar.png"
+  },
+  {
+    "name": "gobackward.75.ar",
+    "img": "glyphs_white/gobackward.75.ar.png"
+  },
+  {
+    "name": "goforward.90.ar",
+    "img": "glyphs_white/goforward.90.ar.png"
+  },
+  {
+    "name": "gobackward.90.ar",
+    "img": "glyphs_white/gobackward.90.ar.png"
+  },
+  {
+    "name": "goforward.10.hi",
+    "img": "glyphs_white/goforward.10.hi.png"
+  },
+  {
+    "name": "gobackward.10.hi",
+    "img": "glyphs_white/gobackward.10.hi.png"
+  },
+  {
+    "name": "goforward.15.hi",
+    "img": "glyphs_white/goforward.15.hi.png"
+  },
+  {
+    "name": "gobackward.15.hi",
+    "img": "glyphs_white/gobackward.15.hi.png"
+  },
+  {
+    "name": "goforward.30.hi",
+    "img": "glyphs_white/goforward.30.hi.png"
+  },
+  {
+    "name": "gobackward.30.hi",
+    "img": "glyphs_white/gobackward.30.hi.png"
+  },
+  {
+    "name": "goforward.45.hi",
+    "img": "glyphs_white/goforward.45.hi.png"
+  },
+  {
+    "name": "gobackward.45.hi",
+    "img": "glyphs_white/gobackward.45.hi.png"
+  },
+  {
+    "name": "goforward.60.hi",
+    "img": "glyphs_white/goforward.60.hi.png"
+  },
+  {
+    "name": "gobackward.60.hi",
+    "img": "glyphs_white/gobackward.60.hi.png"
+  },
+  {
+    "name": "goforward.75.hi",
+    "img": "glyphs_white/goforward.75.hi.png"
+  },
+  {
+    "name": "gobackward.75.hi",
+    "img": "glyphs_white/gobackward.75.hi.png"
+  },
+  {
+    "name": "goforward.90.hi",
+    "img": "glyphs_white/goforward.90.hi.png"
+  },
+  {
+    "name": "gobackward.90.hi",
+    "img": "glyphs_white/gobackward.90.hi.png"
+  },
+  {
+    "name": "goforward.plus",
+    "img": "glyphs_white/goforward.plus.png"
+  },
+  {
+    "name": "gobackward.minus",
+    "img": "glyphs_white/gobackward.minus.png"
+  },
+  {
+    "name": "magnifyingglass",
+    "img": "glyphs_white/magnifyingglass.png"
+  },
+  {
+    "name": "magnifyingglass.circle",
+    "img": "glyphs_white/magnifyingglass.circle.png"
+  },
+  {
+    "name": "magnifyingglass.circle.fill",
+    "img": "glyphs_white/magnifyingglass.circle.fill.png"
+  },
+  {
+    "name": "plus.magnifyingglass",
+    "img": "glyphs_white/plus.magnifyingglass.png"
+  },
+  {
+    "name": "minus.magnifyingglass",
+    "img": "glyphs_white/minus.magnifyingglass.png"
+  },
+  {
+    "name": "1.magnifyingglass",
+    "img": "glyphs_white/1.magnifyingglass.png"
+  },
+  {
+    "name": "mic",
+    "img": "glyphs_white/mic.png"
+  },
+  {
+    "name": "mic.fill",
+    "img": "glyphs_white/mic.fill.png"
+  },
+  {
+    "name": "mic.circle",
+    "img": "glyphs_white/mic.circle.png"
+  },
+  {
+    "name": "mic.circle.fill",
+    "img": "glyphs_white/mic.circle.fill.png"
+  },
+  {
+    "name": "mic.slash",
+    "img": "glyphs_white/mic.slash.png"
+  },
+  {
+    "name": "mic.slash.fill",
+    "img": "glyphs_white/mic.slash.fill.png"
+  },
+  {
+    "name": "suit.heart",
+    "img": "glyphs_white/suit.heart.png"
+  },
+  {
+    "name": "suit.heart.fill",
+    "img": "glyphs_white/suit.heart.fill.png"
+  },
+  {
+    "name": "suit.club",
+    "img": "glyphs_white/suit.club.png"
+  },
+  {
+    "name": "suit.club.fill",
+    "img": "glyphs_white/suit.club.fill.png"
+  },
+  {
+    "name": "suit.spade",
+    "img": "glyphs_white/suit.spade.png"
+  },
+  {
+    "name": "suit.spade.fill",
+    "img": "glyphs_white/suit.spade.fill.png"
+  },
+  {
+    "name": "suit.diamond",
+    "img": "glyphs_white/suit.diamond.png"
+  },
+  {
+    "name": "suit.diamond.fill",
+    "img": "glyphs_white/suit.diamond.fill.png"
+  },
+  {
+    "name": "heart",
+    "img": "glyphs_white/heart.png"
+  },
+  {
+    "name": "heart.fill",
+    "img": "glyphs_white/heart.fill.png"
+  },
+  {
+    "name": "heart.circle",
+    "img": "glyphs_white/heart.circle.png"
+  },
+  {
+    "name": "heart.circle.fill",
+    "img": "glyphs_white/heart.circle.fill.png"
+  },
+  {
+    "name": "heart.slash",
+    "img": "glyphs_white/heart.slash.png"
+  },
+  {
+    "name": "heart.slash.fill",
+    "img": "glyphs_white/heart.slash.fill.png"
+  },
+  {
+    "name": "heart.slash.circle",
+    "img": "glyphs_white/heart.slash.circle.png"
+  },
+  {
+    "name": "heart.slash.circle.fill",
+    "img": "glyphs_white/heart.slash.circle.fill.png"
+  },
+  {
+    "name": "rhombus",
+    "img": "glyphs_white/rhombus.png"
+  },
+  {
+    "name": "rhombus.fill",
+    "img": "glyphs_white/rhombus.fill.png"
+  },
+  {
+    "name": "star",
+    "img": "glyphs_white/star.png"
+  },
+  {
+    "name": "star.fill",
+    "img": "glyphs_white/star.fill.png"
+  },
+  {
+    "name": "star.lefthalf.fill",
+    "img": "glyphs_white/star.lefthalf.fill.png"
+  },
+  {
+    "name": "star.circle",
+    "img": "glyphs_white/star.circle.png"
+  },
+  {
+    "name": "star.circle.fill",
+    "img": "glyphs_white/star.circle.fill.png"
+  },
+  {
+    "name": "star.slash",
+    "img": "glyphs_white/star.slash.png"
+  },
+  {
+    "name": "star.slash.fill",
+    "img": "glyphs_white/star.slash.fill.png"
+  },
+  {
+    "name": "flag",
+    "img": "glyphs_white/flag.png"
+  },
+  {
+    "name": "flag.fill",
+    "img": "glyphs_white/flag.fill.png"
+  },
+  {
+    "name": "flag.circle",
+    "img": "glyphs_white/flag.circle.png"
+  },
+  {
+    "name": "flag.circle.fill",
+    "img": "glyphs_white/flag.circle.fill.png"
+  },
+  {
+    "name": "flag.slash",
+    "img": "glyphs_white/flag.slash.png"
+  },
+  {
+    "name": "flag.slash.fill",
+    "img": "glyphs_white/flag.slash.fill.png"
+  },
+  {
+    "name": "location",
+    "img": "glyphs_white/location.png"
+  },
+  {
+    "name": "location.fill",
+    "img": "glyphs_white/location.fill.png"
+  },
+  {
+    "name": "location.slash",
+    "img": "glyphs_white/location.slash.png"
+  },
+  {
+    "name": "location.slash.fill",
+    "img": "glyphs_white/location.slash.fill.png"
+  },
+  {
+    "name": "location.north",
+    "img": "glyphs_white/location.north.png"
+  },
+  {
+    "name": "location.north.fill",
+    "img": "glyphs_white/location.north.fill.png"
+  },
+  {
+    "name": "location.circle",
+    "img": "glyphs_white/location.circle.png"
+  },
+  {
+    "name": "location.circle.fill",
+    "img": "glyphs_white/location.circle.fill.png"
+  },
+  {
+    "name": "location.north.line",
+    "img": "glyphs_white/location.north.line.png"
+  },
+  {
+    "name": "location.north.line.fill",
+    "img": "glyphs_white/location.north.line.fill.png"
+  },
+  {
+    "name": "bell",
+    "img": "glyphs_white/bell.png"
+  },
+  {
+    "name": "bell.fill",
+    "img": "glyphs_white/bell.fill.png"
+  },
+  {
+    "name": "bell.circle",
+    "img": "glyphs_white/bell.circle.png"
+  },
+  {
+    "name": "bell.circle.fill",
+    "img": "glyphs_white/bell.circle.fill.png"
+  },
+  {
+    "name": "bell.slash",
+    "img": "glyphs_white/bell.slash.png"
+  },
+  {
+    "name": "bell.slash.fill",
+    "img": "glyphs_white/bell.slash.fill.png"
+  },
+  {
+    "name": "tag",
+    "img": "glyphs_white/tag.png"
+  },
+  {
+    "name": "tag.fill",
+    "img": "glyphs_white/tag.fill.png"
+  },
+  {
+    "name": "tag.circle",
+    "img": "glyphs_white/tag.circle.png"
+  },
+  {
+    "name": "tag.circle.fill",
+    "img": "glyphs_white/tag.circle.fill.png"
+  },
+  {
+    "name": "bolt",
+    "img": "glyphs_white/bolt.png"
+  },
+  {
+    "name": "bolt.fill",
+    "img": "glyphs_white/bolt.fill.png"
+  },
+  {
+    "name": "bolt.circle",
+    "img": "glyphs_white/bolt.circle.png"
+  },
+  {
+    "name": "bolt.circle.fill",
+    "img": "glyphs_white/bolt.circle.fill.png"
+  },
+  {
+    "name": "bolt.slash",
+    "img": "glyphs_white/bolt.slash.png"
+  },
+  {
+    "name": "bolt.slash.fill",
+    "img": "glyphs_white/bolt.slash.fill.png"
+  },
+  {
+    "name": "bolt.badge.a",
+    "img": "glyphs_white/bolt.badge.a.png"
+  },
+  {
+    "name": "bolt.badge.a.fill",
+    "img": "glyphs_white/bolt.badge.a.fill.png"
+  },
+  {
+    "name": "eye",
+    "img": "glyphs_white/eye.png"
+  },
+  {
+    "name": "eye.fill",
+    "img": "glyphs_white/eye.fill.png"
+  },
+  {
+    "name": "eye.slash",
+    "img": "glyphs_white/eye.slash.png"
+  },
+  {
+    "name": "eye.slash.fill",
+    "img": "glyphs_white/eye.slash.fill.png"
+  },
+  {
+    "name": "icloud",
+    "img": "glyphs_white/icloud.png"
+  },
+  {
+    "name": "icloud.fill",
+    "img": "glyphs_white/icloud.fill.png"
+  },
+  {
+    "name": "icloud.circle",
+    "img": "glyphs_white/icloud.circle.png"
+  },
+  {
+    "name": "icloud.circle.fill",
+    "img": "glyphs_white/icloud.circle.fill.png"
+  },
+  {
+    "name": "icloud.slash",
+    "img": "glyphs_white/icloud.slash.png"
+  },
+  {
+    "name": "icloud.slash.fill",
+    "img": "glyphs_white/icloud.slash.fill.png"
+  },
+  {
+    "name": "exclamationmark.icloud",
+    "img": "glyphs_white/exclamationmark.icloud.png"
+  },
+  {
+    "name": "exclamationmark.icloud.fill",
+    "img": "glyphs_white/exclamationmark.icloud.fill.png"
+  },
+  {
+    "name": "xmark.icloud",
+    "img": "glyphs_white/xmark.icloud.png"
+  },
+  {
+    "name": "xmark.icloud.fill",
+    "img": "glyphs_white/xmark.icloud.fill.png"
+  },
+  {
+    "name": "link.icloud",
+    "img": "glyphs_white/link.icloud.png"
+  },
+  {
+    "name": "link.icloud.fill",
+    "img": "glyphs_white/link.icloud.fill.png"
+  },
+  {
+    "name": "bolt.horizontal.icloud",
+    "img": "glyphs_white/bolt.horizontal.icloud.png"
+  },
+  {
+    "name": "bolt.horizontal.icloud.fill",
+    "img": "glyphs_white/bolt.horizontal.icloud.fill.png"
+  },
+  {
+    "name": "person.icloud",
+    "img": "glyphs_white/person.icloud.png"
+  },
+  {
+    "name": "person.icloud.fill",
+    "img": "glyphs_white/person.icloud.fill.png"
+  },
+  {
+    "name": "lock.icloud",
+    "img": "glyphs_white/lock.icloud.png"
+  },
+  {
+    "name": "lock.icloud.fill",
+    "img": "glyphs_white/lock.icloud.fill.png"
+  },
+  {
+    "name": "arrow.clockwise.icloud",
+    "img": "glyphs_white/arrow.clockwise.icloud.png"
+  },
+  {
+    "name": "arrow.clockwise.icloud.fill",
+    "img": "glyphs_white/arrow.clockwise.icloud.fill.png"
+  },
+  {
+    "name": "arrow.counterclockwise.icloud",
+    "img": "glyphs_white/arrow.counterclockwise.icloud.png"
+  },
+  {
+    "name": "arrow.counterclockwise.icloud.fill",
+    "img": "glyphs_white/arrow.counterclockwise.icloud.fill.png"
+  },
+  {
+    "name": "icloud.and.arrow.down",
+    "img": "glyphs_white/icloud.and.arrow.down.png"
+  },
+  {
+    "name": "icloud.and.arrow.down.fill",
+    "img": "glyphs_white/icloud.and.arrow.down.fill.png"
+  },
+  {
+    "name": "icloud.and.arrow.up",
+    "img": "glyphs_white/icloud.and.arrow.up.png"
+  },
+  {
+    "name": "icloud.and.arrow.up.fill",
+    "img": "glyphs_white/icloud.and.arrow.up.fill.png"
+  },
+  {
+    "name": "ant",
+    "img": "glyphs_white/ant.png"
+  },
+  {
+    "name": "ant.fill",
+    "img": "glyphs_white/ant.fill.png"
+  },
+  {
+    "name": "ant.circle",
+    "img": "glyphs_white/ant.circle.png"
+  },
+  {
+    "name": "ant.circle.fill",
+    "img": "glyphs_white/ant.circle.fill.png"
+  },
+  {
+    "name": "flashlight.off.fill",
+    "img": "glyphs_white/flashlight.off.fill.png"
+  },
+  {
+    "name": "flashlight.on.fill",
+    "img": "glyphs_white/flashlight.on.fill.png"
+  },
+  {
+    "name": "camera",
+    "img": "glyphs_white/camera.png"
+  },
+  {
+    "name": "camera.fill",
+    "img": "glyphs_white/camera.fill.png"
+  },
+  {
+    "name": "camera.circle",
+    "img": "glyphs_white/camera.circle.png"
+  },
+  {
+    "name": "camera.circle.fill",
+    "img": "glyphs_white/camera.circle.fill.png"
+  },
+  {
+    "name": "camera.rotate",
+    "img": "glyphs_white/camera.rotate.png"
+  },
+  {
+    "name": "camera.rotate.fill",
+    "img": "glyphs_white/camera.rotate.fill.png"
+  },
+  {
+    "name": "camera.on.rectangle",
+    "img": "glyphs_white/camera.on.rectangle.png"
+  },
+  {
+    "name": "camera.on.rectangle.fill",
+    "img": "glyphs_white/camera.on.rectangle.fill.png"
+  },
+  {
+    "name": "message",
+    "img": "glyphs_white/message.png"
+  },
+  {
+    "name": "message.fill",
+    "img": "glyphs_white/message.fill.png"
+  },
+  {
+    "name": "message.circle",
+    "img": "glyphs_white/message.circle.png"
+  },
+  {
+    "name": "message.circle.fill",
+    "img": "glyphs_white/message.circle.fill.png"
+  },
+  {
+    "name": "bubble.right",
+    "img": "glyphs_white/bubble.right.png"
+  },
+  {
+    "name": "bubble.right.fill",
+    "img": "glyphs_white/bubble.right.fill.png"
+  },
+  {
+    "name": "bubble.left",
+    "img": "glyphs_white/bubble.left.png"
+  },
+  {
+    "name": "bubble.left.fill",
+    "img": "glyphs_white/bubble.left.fill.png"
+  },
+  {
+    "name": "exclamationmark.bubble",
+    "img": "glyphs_white/exclamationmark.bubble.png"
+  },
+  {
+    "name": "exclamationmark.bubble.fill",
+    "img": "glyphs_white/exclamationmark.bubble.fill.png"
+  },
+  {
+    "name": "quote.bubble",
+    "img": "glyphs_white/quote.bubble.png"
+  },
+  {
+    "name": "quote.bubble.fill",
+    "img": "glyphs_white/quote.bubble.fill.png"
+  },
+  {
+    "name": "t.bubble",
+    "img": "glyphs_white/t.bubble.png"
+  },
+  {
+    "name": "t.bubble.fill",
+    "img": "glyphs_white/t.bubble.fill.png"
+  },
+  {
+    "name": "text.bubble",
+    "img": "glyphs_white/text.bubble.png"
+  },
+  {
+    "name": "text.bubble.fill",
+    "img": "glyphs_white/text.bubble.fill.png"
+  },
+  {
+    "name": "captions.bubble",
+    "img": "glyphs_white/captions.bubble.png"
+  },
+  {
+    "name": "captions.bubble.fill",
+    "img": "glyphs_white/captions.bubble.fill.png"
+  },
+  {
+    "name": "plus.bubble",
+    "img": "glyphs_white/plus.bubble.png"
+  },
+  {
+    "name": "plus.bubble.fill",
+    "img": "glyphs_white/plus.bubble.fill.png"
+  },
+  {
+    "name": "ellipses.bubble",
+    "img": "glyphs_white/ellipses.bubble.png"
+  },
+  {
+    "name": "ellipses.bubble.fill",
+    "img": "glyphs_white/ellipses.bubble.fill.png"
+  },
+  {
+    "name": "bubble.middle.bottom",
+    "img": "glyphs_white/bubble.middle.bottom.png"
+  },
+  {
+    "name": "bubble.middle.bottom.fill",
+    "img": "glyphs_white/bubble.middle.bottom.fill.png"
+  },
+  {
+    "name": "bubble.middle.top",
+    "img": "glyphs_white/bubble.middle.top.png"
+  },
+  {
+    "name": "bubble.middle.top.fill",
+    "img": "glyphs_white/bubble.middle.top.fill.png"
+  },
+  {
+    "name": "bubble.left.and.bubble.right",
+    "img": "glyphs_white/bubble.left.and.bubble.right.png"
+  },
+  {
+    "name": "bubble.left.and.bubble.right.fill",
+    "img": "glyphs_white/bubble.left.and.bubble.right.fill.png"
+  },
+  {
+    "name": "phone",
+    "img": "glyphs_white/phone.png"
+  },
+  {
+    "name": "phone.fill",
+    "img": "glyphs_white/phone.fill.png"
+  },
+  {
+    "name": "phone.circle",
+    "img": "glyphs_white/phone.circle.png"
+  },
+  {
+    "name": "phone.circle.fill",
+    "img": "glyphs_white/phone.circle.fill.png"
+  },
+  {
+    "name": "phone.badge.plus",
+    "img": "glyphs_white/phone.badge.plus.png"
+  },
+  {
+    "name": "phone.fill.badge.plus",
+    "img": "glyphs_white/phone.fill.badge.plus.png"
+  },
+  {
+    "name": "phone.arrow.up.right",
+    "img": "glyphs_white/phone.arrow.up.right.png"
+  },
+  {
+    "name": "phone.fill.arrow.up.right",
+    "img": "glyphs_white/phone.fill.arrow.up.right.png"
+  },
+  {
+    "name": "phone.arrow.down.left",
+    "img": "glyphs_white/phone.arrow.down.left.png"
+  },
+  {
+    "name": "phone.fill.arrow.down.left",
+    "img": "glyphs_white/phone.fill.arrow.down.left.png"
+  },
+  {
+    "name": "phone.arrow.right",
+    "img": "glyphs_white/phone.arrow.right.png"
+  },
+  {
+    "name": "phone.fill.arrow.right",
+    "img": "glyphs_white/phone.fill.arrow.right.png"
+  },
+  {
+    "name": "phone.down",
+    "img": "glyphs_white/phone.down.png"
+  },
+  {
+    "name": "phone.down.fill",
+    "img": "glyphs_white/phone.down.fill.png"
+  },
+  {
+    "name": "phone.down.circle",
+    "img": "glyphs_white/phone.down.circle.png"
+  },
+  {
+    "name": "phone.down.circle.fill",
+    "img": "glyphs_white/phone.down.circle.fill.png"
+  },
+  {
+    "name": "teletype",
+    "img": "glyphs_white/teletype.png"
+  },
+  {
+    "name": "teletype.answer",
+    "img": "glyphs_white/teletype.answer.png"
+  },
+  {
+    "name": "video",
+    "img": "glyphs_white/video.png"
+  },
+  {
+    "name": "video.fill",
+    "img": "glyphs_white/video.fill.png"
+  },
+  {
+    "name": "video.circle",
+    "img": "glyphs_white/video.circle.png"
+  },
+  {
+    "name": "video.circle.fill",
+    "img": "glyphs_white/video.circle.fill.png"
+  },
+  {
+    "name": "video.slash",
+    "img": "glyphs_white/video.slash.png"
+  },
+  {
+    "name": "video.slash.fill",
+    "img": "glyphs_white/video.slash.fill.png"
+  },
+  {
+    "name": "video.badge.plus",
+    "img": "glyphs_white/video.badge.plus.png"
+  },
+  {
+    "name": "video.badge.plus.fill",
+    "img": "glyphs_white/video.badge.plus.fill.png"
+  },
+  {
+    "name": "arrow.up.right.video",
+    "img": "glyphs_white/arrow.up.right.video.png"
+  },
+  {
+    "name": "arrow.up.right.video.fill",
+    "img": "glyphs_white/arrow.up.right.video.fill.png"
+  },
+  {
+    "name": "arrow.down.left.video",
+    "img": "glyphs_white/arrow.down.left.video.png"
+  },
+  {
+    "name": "arrow.down.left.video.fill",
+    "img": "glyphs_white/arrow.down.left.video.fill.png"
+  },
+  {
+    "name": "questionmark.video",
+    "img": "glyphs_white/questionmark.video.png"
+  },
+  {
+    "name": "questionmark.video.fill",
+    "img": "glyphs_white/questionmark.video.fill.png"
+  },
+  {
+    "name": "envelope",
+    "img": "glyphs_white/envelope.png"
+  },
+  {
+    "name": "envelope.fill",
+    "img": "glyphs_white/envelope.fill.png"
+  },
+  {
+    "name": "envelope.circle",
+    "img": "glyphs_white/envelope.circle.png"
+  },
+  {
+    "name": "envelope.circle.fill",
+    "img": "glyphs_white/envelope.circle.fill.png"
+  },
+  {
+    "name": "envelope.open",
+    "img": "glyphs_white/envelope.open.png"
+  },
+  {
+    "name": "envelope.open.fill",
+    "img": "glyphs_white/envelope.open.fill.png"
+  },
+  {
+    "name": "envelope.badge",
+    "img": "glyphs_white/envelope.badge.png"
+  },
+  {
+    "name": "envelope.badge.fill",
+    "img": "glyphs_white/envelope.badge.fill.png"
+  },
+  {
+    "name": "gear",
+    "img": "glyphs_white/gear.png"
+  },
+  {
+    "name": "signature",
+    "img": "glyphs_white/signature.png"
+  },
+  {
+    "name": "scissors",
+    "img": "glyphs_white/scissors.png"
+  },
+  {
+    "name": "scissors.badge.ellipsis",
+    "img": "glyphs_white/scissors.badge.ellipsis.png"
+  },
+  {
+    "name": "ellipsis",
+    "img": "glyphs_white/ellipsis.png"
+  },
+  {
+    "name": "ellipsis.circle",
+    "img": "glyphs_white/ellipsis.circle.png"
+  },
+  {
+    "name": "ellipsis.circle.fill",
+    "img": "glyphs_white/ellipsis.circle.fill.png"
+  },
+  {
+    "name": "bag",
+    "img": "glyphs_white/bag.png"
+  },
+  {
+    "name": "bag.fill",
+    "img": "glyphs_white/bag.fill.png"
+  },
+  {
+    "name": "bag.badge.plus",
+    "img": "glyphs_white/bag.badge.plus.png"
+  },
+  {
+    "name": "bag.fill.badge.plus",
+    "img": "glyphs_white/bag.fill.badge.plus.png"
+  },
+  {
+    "name": "bag.badge.minus",
+    "img": "glyphs_white/bag.badge.minus.png"
+  },
+  {
+    "name": "bag.fill.badge.minus",
+    "img": "glyphs_white/bag.fill.badge.minus.png"
+  },
+  {
+    "name": "cart",
+    "img": "glyphs_white/cart.png"
+  },
+  {
+    "name": "cart.fill",
+    "img": "glyphs_white/cart.fill.png"
+  },
+  {
+    "name": "cart.badge.plus",
+    "img": "glyphs_white/cart.badge.plus.png"
+  },
+  {
+    "name": "cart.fill.badge.plus",
+    "img": "glyphs_white/cart.fill.badge.plus.png"
+  },
+  {
+    "name": "cart.badge.minus",
+    "img": "glyphs_white/cart.badge.minus.png"
+  },
+  {
+    "name": "cart.fill.badge.minus",
+    "img": "glyphs_white/cart.fill.badge.minus.png"
+  },
+  {
+    "name": "creditcard",
+    "img": "glyphs_white/creditcard.png"
+  },
+  {
+    "name": "creditcard.fill",
+    "img": "glyphs_white/creditcard.fill.png"
+  },
+  {
+    "name": "wand.and.rays",
+    "img": "glyphs_white/wand.and.rays.png"
+  },
+  {
+    "name": "wand.and.rays.inverse",
+    "img": "glyphs_white/wand.and.rays.inverse.png"
+  },
+  {
+    "name": "wand.and.stars",
+    "img": "glyphs_white/wand.and.stars.png"
+  },
+  {
+    "name": "wand.and.stars.inverse",
+    "img": "glyphs_white/wand.and.stars.inverse.png"
+  },
+  {
+    "name": "crop",
+    "img": "glyphs_white/crop.png"
+  },
+  {
+    "name": "crop.rotate",
+    "img": "glyphs_white/crop.rotate.png"
+  },
+  {
+    "name": "dial",
+    "img": "glyphs_white/dial.png"
+  },
+  {
+    "name": "dial.fill",
+    "img": "glyphs_white/dial.fill.png"
+  },
+  {
+    "name": "nosign",
+    "img": "glyphs_white/nosign.png"
+  },
+  {
+    "name": "gauge",
+    "img": "glyphs_white/gauge.png"
+  },
+  {
+    "name": "gauge.badge.plus",
+    "img": "glyphs_white/gauge.badge.plus.png"
+  },
+  {
+    "name": "gauge.badge.minus",
+    "img": "glyphs_white/gauge.badge.minus.png"
+  },
+  {
+    "name": "speedometer",
+    "img": "glyphs_white/speedometer.png"
+  },
+  {
+    "name": "metronome",
+    "img": "glyphs_white/metronome.png"
+  },
+  {
+    "name": "hifispeaker",
+    "img": "glyphs_white/hifispeaker.png"
+  },
+  {
+    "name": "hifispeaker.fill",
+    "img": "glyphs_white/hifispeaker.fill.png"
+  },
+  {
+    "name": "tuningfork",
+    "img": "glyphs_white/tuningfork.png"
+  },
+  {
+    "name": "paintbrush",
+    "img": "glyphs_white/paintbrush.png"
+  },
+  {
+    "name": "paintbrush.fill",
+    "img": "glyphs_white/paintbrush.fill.png"
+  },
+  {
+    "name": "bandage",
+    "img": "glyphs_white/bandage.png"
+  },
+  {
+    "name": "bandage.fill",
+    "img": "glyphs_white/bandage.fill.png"
+  },
+  {
+    "name": "wrench",
+    "img": "glyphs_white/wrench.png"
+  },
+  {
+    "name": "wrench.fill",
+    "img": "glyphs_white/wrench.fill.png"
+  },
+  {
+    "name": "hammer",
+    "img": "glyphs_white/hammer.png"
+  },
+  {
+    "name": "hammer.fill",
+    "img": "glyphs_white/hammer.fill.png"
+  },
+  {
+    "name": "eyedropper",
+    "img": "glyphs_white/eyedropper.png"
+  },
+  {
+    "name": "eyedropper.halffull",
+    "img": "glyphs_white/eyedropper.halffull.png"
+  },
+  {
+    "name": "eyedropper.full",
+    "img": "glyphs_white/eyedropper.full.png"
+  },
+  {
+    "name": "printer",
+    "img": "glyphs_white/printer.png"
+  },
+  {
+    "name": "printer.fill",
+    "img": "glyphs_white/printer.fill.png"
+  },
+  {
+    "name": "briefcase",
+    "img": "glyphs_white/briefcase.png"
+  },
+  {
+    "name": "briefcase.fill",
+    "img": "glyphs_white/briefcase.fill.png"
+  },
+  {
+    "name": "house",
+    "img": "glyphs_white/house.png"
+  },
+  {
+    "name": "house.fill",
+    "img": "glyphs_white/house.fill.png"
+  },
+  {
+    "name": "music.house",
+    "img": "glyphs_white/music.house.png"
+  },
+  {
+    "name": "music.house.fill",
+    "img": "glyphs_white/music.house.fill.png"
+  },
+  {
+    "name": "lock",
+    "img": "glyphs_white/lock.png"
+  },
+  {
+    "name": "lock.fill",
+    "img": "glyphs_white/lock.fill.png"
+  },
+  {
+    "name": "lock.circle",
+    "img": "glyphs_white/lock.circle.png"
+  },
+  {
+    "name": "lock.circle.fill",
+    "img": "glyphs_white/lock.circle.fill.png"
+  },
+  {
+    "name": "lock.slash",
+    "img": "glyphs_white/lock.slash.png"
+  },
+  {
+    "name": "lock.slash.fill",
+    "img": "glyphs_white/lock.slash.fill.png"
+  },
+  {
+    "name": "lock.open",
+    "img": "glyphs_white/lock.open.png"
+  },
+  {
+    "name": "lock.open.fill",
+    "img": "glyphs_white/lock.open.fill.png"
+  },
+  {
+    "name": "lock.rotation",
+    "img": "glyphs_white/lock.rotation.png"
+  },
+  {
+    "name": "lock.rotation.open",
+    "img": "glyphs_white/lock.rotation.open.png"
+  },
+  {
+    "name": "wifi",
+    "img": "glyphs_white/wifi.png"
+  },
+  {
+    "name": "wifi.slash",
+    "img": "glyphs_white/wifi.slash.png"
+  },
+  {
+    "name": "wifi.exclamationmark",
+    "img": "glyphs_white/wifi.exclamationmark.png"
+  },
+  {
+    "name": "pin",
+    "img": "glyphs_white/pin.png"
+  },
+  {
+    "name": "pin.fill",
+    "img": "glyphs_white/pin.fill.png"
+  },
+  {
+    "name": "pin.circle",
+    "img": "glyphs_white/pin.circle.png"
+  },
+  {
+    "name": "pin.circle.fill",
+    "img": "glyphs_white/pin.circle.fill.png"
+  },
+  {
+    "name": "pin.slash",
+    "img": "glyphs_white/pin.slash.png"
+  },
+  {
+    "name": "pin.slash.fill",
+    "img": "glyphs_white/pin.slash.fill.png"
+  },
+  {
+    "name": "mappin",
+    "img": "glyphs_white/mappin.png"
+  },
+  {
+    "name": "mappin.circle",
+    "img": "glyphs_white/mappin.circle.png"
+  },
+  {
+    "name": "mappin.circle.fill",
+    "img": "glyphs_white/mappin.circle.fill.png"
+  },
+  {
+    "name": "mappin.slash",
+    "img": "glyphs_white/mappin.slash.png"
+  },
+  {
+    "name": "mappin.and.ellipse",
+    "img": "glyphs_white/mappin.and.ellipse.png"
+  },
+  {
+    "name": "map",
+    "img": "glyphs_white/map.png"
+  },
+  {
+    "name": "map.fill",
+    "img": "glyphs_white/map.fill.png"
+  },
+  {
+    "name": "safari",
+    "img": "glyphs_white/safari.png"
+  },
+  {
+    "name": "safari.fill",
+    "img": "glyphs_white/safari.fill.png"
+  },
+  {
+    "name": "rotate.left",
+    "img": "glyphs_white/rotate.left.png"
+  },
+  {
+    "name": "rotate.left.fill",
+    "img": "glyphs_white/rotate.left.fill.png"
+  },
+  {
+    "name": "rotate.right",
+    "img": "glyphs_white/rotate.right.png"
+  },
+  {
+    "name": "rotate.right.fill",
+    "img": "glyphs_white/rotate.right.fill.png"
+  },
+  {
+    "name": "selection.pin.in.out",
+    "img": "glyphs_white/selection.pin.in.out.png"
+  },
+  {
+    "name": "tv",
+    "img": "glyphs_white/tv.png"
+  },
+  {
+    "name": "tv.fill",
+    "img": "glyphs_white/tv.fill.png"
+  },
+  {
+    "name": "tv.circle",
+    "img": "glyphs_white/tv.circle.png"
+  },
+  {
+    "name": "tv.circle.fill",
+    "img": "glyphs_white/tv.circle.fill.png"
+  },
+  {
+    "name": "tv.music.note",
+    "img": "glyphs_white/tv.music.note.png"
+  },
+  {
+    "name": "tv.music.note.fill",
+    "img": "glyphs_white/tv.music.note.fill.png"
+  },
+  {
+    "name": "desktopcomputer",
+    "img": "glyphs_white/desktopcomputer.png"
+  },
+  {
+    "name": "airplayvideo",
+    "img": "glyphs_white/airplayvideo.png"
+  },
+  {
+    "name": "airplayaudio",
+    "img": "glyphs_white/airplayaudio.png"
+  },
+  {
+    "name": "dot.radiowaves.left.and.right",
+    "img": "glyphs_white/dot.radiowaves.left.and.right.png"
+  },
+  {
+    "name": "dot.radiowaves.right",
+    "img": "glyphs_white/dot.radiowaves.right.png"
+  },
+  {
+    "name": "radiowaves.left",
+    "img": "glyphs_white/radiowaves.left.png"
+  },
+  {
+    "name": "radiowaves.right",
+    "img": "glyphs_white/radiowaves.right.png"
+  },
+  {
+    "name": "antenna.radiowaves.left.and.right",
+    "img": "glyphs_white/antenna.radiowaves.left.and.right.png"
+  },
+  {
+    "name": "guitars",
+    "img": "glyphs_white/guitars.png"
+  },
+  {
+    "name": "car",
+    "img": "glyphs_white/car.png"
+  },
+  {
+    "name": "car.fill",
+    "img": "glyphs_white/car.fill.png"
+  },
+  {
+    "name": "tram.fill",
+    "img": "glyphs_white/tram.fill.png"
+  },
+  {
+    "name": "bed.double",
+    "img": "glyphs_white/bed.double.png"
+  },
+  {
+    "name": "bed.double.fill",
+    "img": "glyphs_white/bed.double.fill.png"
+  },
+  {
+    "name": "hare",
+    "img": "glyphs_white/hare.png"
+  },
+  {
+    "name": "hare.fill",
+    "img": "glyphs_white/hare.fill.png"
+  },
+  {
+    "name": "tortoise",
+    "img": "glyphs_white/tortoise.png"
+  },
+  {
+    "name": "tortoise.fill",
+    "img": "glyphs_white/tortoise.fill.png"
+  },
+  {
+    "name": "film",
+    "img": "glyphs_white/film.png"
+  },
+  {
+    "name": "film.fill",
+    "img": "glyphs_white/film.fill.png"
+  },
+  {
+    "name": "sportscourt",
+    "img": "glyphs_white/sportscourt.png"
+  },
+  {
+    "name": "sportscourt.fill",
+    "img": "glyphs_white/sportscourt.fill.png"
+  },
+  {
+    "name": "smiley",
+    "img": "glyphs_white/smiley.png"
+  },
+  {
+    "name": "smiley.fill",
+    "img": "glyphs_white/smiley.fill.png"
+  },
+  {
+    "name": "qrcode",
+    "img": "glyphs_white/qrcode.png"
+  },
+  {
+    "name": "barcode",
+    "img": "glyphs_white/barcode.png"
+  },
+  {
+    "name": "viewfinder",
+    "img": "glyphs_white/viewfinder.png"
+  },
+  {
+    "name": "viewfinder.circle",
+    "img": "glyphs_white/viewfinder.circle.png"
+  },
+  {
+    "name": "viewfinder.circle.fill",
+    "img": "glyphs_white/viewfinder.circle.fill.png"
+  },
+  {
+    "name": "barcode.viewfinder",
+    "img": "glyphs_white/barcode.viewfinder.png"
+  },
+  {
+    "name": "qrcode.viewfinder",
+    "img": "glyphs_white/qrcode.viewfinder.png"
+  },
+  {
+    "name": "camera.viewfinder",
+    "img": "glyphs_white/camera.viewfinder.png"
+  },
+  {
+    "name": "faceid",
+    "img": "glyphs_white/faceid.png"
+  },
+  {
+    "name": "doc.text.viewfinder",
+    "img": "glyphs_white/doc.text.viewfinder.png"
+  },
+  {
+    "name": "rectangle",
+    "img": "glyphs_white/rectangle.png"
+  },
+  {
+    "name": "rectangle.fill",
+    "img": "glyphs_white/rectangle.fill.png"
+  },
+  {
+    "name": "photo",
+    "img": "glyphs_white/photo.png"
+  },
+  {
+    "name": "photo.fill",
+    "img": "glyphs_white/photo.fill.png"
+  },
+  {
+    "name": "plus.rectangle",
+    "img": "glyphs_white/plus.rectangle.png"
+  },
+  {
+    "name": "plus.rectangle.fill",
+    "img": "glyphs_white/plus.rectangle.fill.png"
+  },
+  {
+    "name": "minus.rectangle",
+    "img": "glyphs_white/minus.rectangle.png"
+  },
+  {
+    "name": "minus.rectangle.fill",
+    "img": "glyphs_white/minus.rectangle.fill.png"
+  },
+  {
+    "name": "checkmark.rectangle",
+    "img": "glyphs_white/checkmark.rectangle.png"
+  },
+  {
+    "name": "checkmark.rectangle.fill",
+    "img": "glyphs_white/checkmark.rectangle.fill.png"
+  },
+  {
+    "name": "xmark.rectangle",
+    "img": "glyphs_white/xmark.rectangle.png"
+  },
+  {
+    "name": "xmark.rectangle.fill",
+    "img": "glyphs_white/xmark.rectangle.fill.png"
+  },
+  {
+    "name": "person.crop.rectangle",
+    "img": "glyphs_white/person.crop.rectangle.png"
+  },
+  {
+    "name": "person.crop.rectangle.fill",
+    "img": "glyphs_white/person.crop.rectangle.fill.png"
+  },
+  {
+    "name": "rectangle.badge.checkmark",
+    "img": "glyphs_white/rectangle.badge.checkmark.png"
+  },
+  {
+    "name": "rectangle.fill.badge.checkmark",
+    "img": "glyphs_white/rectangle.fill.badge.checkmark.png"
+  },
+  {
+    "name": "rectangle.badge.xmark",
+    "img": "glyphs_white/rectangle.badge.xmark.png"
+  },
+  {
+    "name": "rectangle.fill.badge.xmark",
+    "img": "glyphs_white/rectangle.fill.badge.xmark.png"
+  },
+  {
+    "name": "sidebar.left",
+    "img": "glyphs_white/sidebar.left.png"
+  },
+  {
+    "name": "sidebar.right",
+    "img": "glyphs_white/sidebar.right.png"
+  },
+  {
+    "name": "macwindow",
+    "img": "glyphs_white/macwindow.png"
+  },
+  {
+    "name": "uiwindow.split.2x1",
+    "img": "glyphs_white/uiwindow.split.2x1.png"
+  },
+  {
+    "name": "rectangle.dock",
+    "img": "glyphs_white/rectangle.dock.png"
+  },
+  {
+    "name": "rectangle.split.3x1",
+    "img": "glyphs_white/rectangle.split.3x1.png"
+  },
+  {
+    "name": "rectangle.split.3x1.fill",
+    "img": "glyphs_white/rectangle.split.3x1.fill.png"
+  },
+  {
+    "name": "square.split.2x1",
+    "img": "glyphs_white/square.split.2x1.png"
+  },
+  {
+    "name": "square.split.2x1.fill",
+    "img": "glyphs_white/square.split.2x1.fill.png"
+  },
+  {
+    "name": "square.split.1x2",
+    "img": "glyphs_white/square.split.1x2.png"
+  },
+  {
+    "name": "square.split.1x2.fill",
+    "img": "glyphs_white/square.split.1x2.fill.png"
+  },
+  {
+    "name": "square.split.2x2",
+    "img": "glyphs_white/square.split.2x2.png"
+  },
+  {
+    "name": "square.split.2x2.fill",
+    "img": "glyphs_white/square.split.2x2.fill.png"
+  },
+  {
+    "name": "dot.square",
+    "img": "glyphs_white/dot.square.png"
+  },
+  {
+    "name": "dot.square.fill",
+    "img": "glyphs_white/dot.square.fill.png"
+  },
+  {
+    "name": "squares.below.rectangle",
+    "img": "glyphs_white/squares.below.rectangle.png"
+  },
+  {
+    "name": "rectangle.split.3x3",
+    "img": "glyphs_white/rectangle.split.3x3.png"
+  },
+  {
+    "name": "rectangle.split.3x3.fill",
+    "img": "glyphs_white/rectangle.split.3x3.fill.png"
+  },
+  {
+    "name": "table",
+    "img": "glyphs_white/table.png"
+  },
+  {
+    "name": "table.fill",
+    "img": "glyphs_white/table.fill.png"
+  },
+  {
+    "name": "table.badge.more",
+    "img": "glyphs_white/table.badge.more.png"
+  },
+  {
+    "name": "table.badge.more.fill",
+    "img": "glyphs_white/table.badge.more.fill.png"
+  },
+  {
+    "name": "rectangle.on.rectangle",
+    "img": "glyphs_white/rectangle.on.rectangle.png"
+  },
+  {
+    "name": "rectangle.fill.on.rectangle.fill",
+    "img": "glyphs_white/rectangle.fill.on.rectangle.fill.png"
+  },
+  {
+    "name": "plus.rectangle.on.rectangle",
+    "img": "glyphs_white/plus.rectangle.on.rectangle.png"
+  },
+  {
+    "name": "plus.rectangle.fill.on.rectangle.fill",
+    "img": "glyphs_white/plus.rectangle.fill.on.rectangle.fill.png"
+  },
+  {
+    "name": "photo.on.rectangle",
+    "img": "glyphs_white/photo.on.rectangle.png"
+  },
+  {
+    "name": "photo.fill.on.rectangle.fill",
+    "img": "glyphs_white/photo.fill.on.rectangle.fill.png"
+  },
+  {
+    "name": "rectangle.on.rectangle.angled",
+    "img": "glyphs_white/rectangle.on.rectangle.angled.png"
+  },
+  {
+    "name": "rectangle.fill.on.rectangle.angled.fill",
+    "img": "glyphs_white/rectangle.fill.on.rectangle.angled.fill.png"
+  },
+  {
+    "name": "rectangle.stack",
+    "img": "glyphs_white/rectangle.stack.png"
+  },
+  {
+    "name": "rectangle.stack.fill",
+    "img": "glyphs_white/rectangle.stack.fill.png"
+  },
+  {
+    "name": "rectangle.stack.badge.plus",
+    "img": "glyphs_white/rectangle.stack.badge.plus.png"
+  },
+  {
+    "name": "rectangle.stack.fill.badge.plus",
+    "img": "glyphs_white/rectangle.stack.fill.badge.plus.png"
+  },
+  {
+    "name": "rectangle.stack.badge.minus",
+    "img": "glyphs_white/rectangle.stack.badge.minus.png"
+  },
+  {
+    "name": "rectangle.stack.fill.badge.minus",
+    "img": "glyphs_white/rectangle.stack.fill.badge.minus.png"
+  },
+  {
+    "name": "rectangle.stack.badge.person.crop",
+    "img": "glyphs_white/rectangle.stack.badge.person.crop.png"
+  },
+  {
+    "name": "rectangle.stack.fill.badge.person.crop",
+    "img": "glyphs_white/rectangle.stack.fill.badge.person.crop.png"
+  },
+  {
+    "name": "rectangle.stack.person.crop",
+    "img": "glyphs_white/rectangle.stack.person.crop.png"
+  },
+  {
+    "name": "rectangle.stack.person.crop.fill",
+    "img": "glyphs_white/rectangle.stack.person.crop.fill.png"
+  },
+  {
+    "name": "person.2.square.stack",
+    "img": "glyphs_white/person.2.square.stack.png"
+  },
+  {
+    "name": "person.2.square.stack.fill",
+    "img": "glyphs_white/person.2.square.stack.fill.png"
+  },
+  {
+    "name": "square.on.square",
+    "img": "glyphs_white/square.on.square.png"
+  },
+  {
+    "name": "square.fill.on.square.fill",
+    "img": "glyphs_white/square.fill.on.square.fill.png"
+  },
+  {
+    "name": "plus.square.on.square",
+    "img": "glyphs_white/plus.square.on.square.png"
+  },
+  {
+    "name": "plus.square.fill.on.square.fill",
+    "img": "glyphs_white/plus.square.fill.on.square.fill.png"
+  },
+  {
+    "name": "square.on.circle",
+    "img": "glyphs_white/square.on.circle.png"
+  },
+  {
+    "name": "square.fill.on.circle.fill",
+    "img": "glyphs_white/square.fill.on.circle.fill.png"
+  },
+  {
+    "name": "square.stack",
+    "img": "glyphs_white/square.stack.png"
+  },
+  {
+    "name": "square.stack.fill",
+    "img": "glyphs_white/square.stack.fill.png"
+  },
+  {
+    "name": "pano",
+    "img": "glyphs_white/pano.png"
+  },
+  {
+    "name": "pano.fill",
+    "img": "glyphs_white/pano.fill.png"
+  },
+  {
+    "name": "square.and.line.vertical.and.square",
+    "img": "glyphs_white/square.and.line.vertical.and.square.png"
+  },
+  {
+    "name": "square.fill.and.line.vertical.square.fill",
+    "img": "glyphs_white/square.fill.and.line.vertical.square.fill.png"
+  },
+  {
+    "name": "square.fill.and.line.vertical.and.square",
+    "img": "glyphs_white/square.fill.and.line.vertical.and.square.png"
+  },
+  {
+    "name": "square.and.line.vertical.and.square.fill",
+    "img": "glyphs_white/square.and.line.vertical.and.square.fill.png"
+  },
+  {
+    "name": "flowchart",
+    "img": "glyphs_white/flowchart.png"
+  },
+  {
+    "name": "flowchart.fill",
+    "img": "glyphs_white/flowchart.fill.png"
+  },
+  {
+    "name": "shield",
+    "img": "glyphs_white/shield.png"
+  },
+  {
+    "name": "shield.fill",
+    "img": "glyphs_white/shield.fill.png"
+  },
+  {
+    "name": "shield.slash",
+    "img": "glyphs_white/shield.slash.png"
+  },
+  {
+    "name": "shield.slash.fill",
+    "img": "glyphs_white/shield.slash.fill.png"
+  },
+  {
+    "name": "lock.shield",
+    "img": "glyphs_white/lock.shield.png"
+  },
+  {
+    "name": "lock.shield.fill",
+    "img": "glyphs_white/lock.shield.fill.png"
+  },
+  {
+    "name": "checkmark.shield",
+    "img": "glyphs_white/checkmark.shield.png"
+  },
+  {
+    "name": "checkmark.shield.fill",
+    "img": "glyphs_white/checkmark.shield.fill.png"
+  },
+  {
+    "name": "xmark.shield",
+    "img": "glyphs_white/xmark.shield.png"
+  },
+  {
+    "name": "xmark.shield.fill",
+    "img": "glyphs_white/xmark.shield.fill.png"
+  },
+  {
+    "name": "exclamationmark.shield",
+    "img": "glyphs_white/exclamationmark.shield.png"
+  },
+  {
+    "name": "exclamationmark.shield.fill",
+    "img": "glyphs_white/exclamationmark.shield.fill.png"
+  },
+  {
+    "name": "shield.lefthalf.fill",
+    "img": "glyphs_white/shield.lefthalf.fill.png"
+  },
+  {
+    "name": "slider.horizontal.below.rectangle",
+    "img": "glyphs_white/slider.horizontal.below.rectangle.png"
+  },
+  {
+    "name": "hexagon",
+    "img": "glyphs_white/hexagon.png"
+  },
+  {
+    "name": "hexagon.fill",
+    "img": "glyphs_white/hexagon.fill.png"
+  },
+  {
+    "name": "cube",
+    "img": "glyphs_white/cube.png"
+  },
+  {
+    "name": "cube.fill",
+    "img": "glyphs_white/cube.fill.png"
+  },
+  {
+    "name": "cube.box",
+    "img": "glyphs_white/cube.box.png"
+  },
+  {
+    "name": "cube.box.fill",
+    "img": "glyphs_white/cube.box.fill.png"
+  },
+  {
+    "name": "arkit",
+    "img": "glyphs_white/arkit.png"
+  },
+  {
+    "name": "square.stack.3d.down.right",
+    "img": "glyphs_white/square.stack.3d.down.right.png"
+  },
+  {
+    "name": "square.stack.3d.down.right.fill",
+    "img": "glyphs_white/square.stack.3d.down.right.fill.png"
+  },
+  {
+    "name": "square.stack.3d.up",
+    "img": "glyphs_white/square.stack.3d.up.png"
+  },
+  {
+    "name": "square.stack.3d.up.fill",
+    "img": "glyphs_white/square.stack.3d.up.fill.png"
+  },
+  {
+    "name": "square.stack.3d.up.slash",
+    "img": "glyphs_white/square.stack.3d.up.slash.png"
+  },
+  {
+    "name": "square.stack.3d.up.slash.fill",
+    "img": "glyphs_white/square.stack.3d.up.slash.fill.png"
+  },
+  {
+    "name": "square.stack.3d.down.dottedline",
+    "img": "glyphs_white/square.stack.3d.down.dottedline.png"
+  },
+  {
+    "name": "livephoto",
+    "img": "glyphs_white/livephoto.png"
+  },
+  {
+    "name": "livephoto.slash",
+    "img": "glyphs_white/livephoto.slash.png"
+  },
+  {
+    "name": "livephoto.play",
+    "img": "glyphs_white/livephoto.play.png"
+  },
+  {
+    "name": "scope",
+    "img": "glyphs_white/scope.png"
+  },
+  {
+    "name": "helm",
+    "img": "glyphs_white/helm.png"
+  },
+  {
+    "name": "clock",
+    "img": "glyphs_white/clock.png"
+  },
+  {
+    "name": "clock.fill",
+    "img": "glyphs_white/clock.fill.png"
+  },
+  {
+    "name": "alarm",
+    "img": "glyphs_white/alarm.png"
+  },
+  {
+    "name": "alarm.fill",
+    "img": "glyphs_white/alarm.fill.png"
+  },
+  {
+    "name": "stopwatch",
+    "img": "glyphs_white/stopwatch.png"
+  },
+  {
+    "name": "stopwatch.fill",
+    "img": "glyphs_white/stopwatch.fill.png"
+  },
+  {
+    "name": "timer",
+    "img": "glyphs_white/timer.png"
+  },
+  {
+    "name": "gamecontroller",
+    "img": "glyphs_white/gamecontroller.png"
+  },
+  {
+    "name": "gamecontroller.fill",
+    "img": "glyphs_white/gamecontroller.fill.png"
+  },
+  {
+    "name": "ear",
+    "img": "glyphs_white/ear.png"
+  },
+  {
+    "name": "hand.raised",
+    "img": "glyphs_white/hand.raised.png"
+  },
+  {
+    "name": "hand.raised.fill",
+    "img": "glyphs_white/hand.raised.fill.png"
+  },
+  {
+    "name": "hand.raised.slash",
+    "img": "glyphs_white/hand.raised.slash.png"
+  },
+  {
+    "name": "hand.raised.slash.fill",
+    "img": "glyphs_white/hand.raised.slash.fill.png"
+  },
+  {
+    "name": "hand.thumbsup",
+    "img": "glyphs_white/hand.thumbsup.png"
+  },
+  {
+    "name": "hand.thumbsup.fill",
+    "img": "glyphs_white/hand.thumbsup.fill.png"
+  },
+  {
+    "name": "hand.thumbsdown",
+    "img": "glyphs_white/hand.thumbsdown.png"
+  },
+  {
+    "name": "hand.thumbsdown.fill",
+    "img": "glyphs_white/hand.thumbsdown.fill.png"
+  },
+  {
+    "name": "hand.draw",
+    "img": "glyphs_white/hand.draw.png"
+  },
+  {
+    "name": "hand.draw.fill",
+    "img": "glyphs_white/hand.draw.fill.png"
+  },
+  {
+    "name": "hand.point.left",
+    "img": "glyphs_white/hand.point.left.png"
+  },
+  {
+    "name": "hand.point.left.fill",
+    "img": "glyphs_white/hand.point.left.fill.png"
+  },
+  {
+    "name": "hand.point.right",
+    "img": "glyphs_white/hand.point.right.png"
+  },
+  {
+    "name": "hand.point.right.fill",
+    "img": "glyphs_white/hand.point.right.fill.png"
+  },
+  {
+    "name": "rectangle.compress.vertical",
+    "img": "glyphs_white/rectangle.compress.vertical.png"
+  },
+  {
+    "name": "rectangle.expand.vertical",
+    "img": "glyphs_white/rectangle.expand.vertical.png"
+  },
+  {
+    "name": "rectangle.and.arrow.up.right.and.arrow.down.left",
+    "img": "glyphs_white/rectangle.and.arrow.up.right.and.arrow.down.left.png"
+  },
+  {
+    "name": "rectangle.and.arrow.up.right.and.arrow.down.left.slash",
+    "img": "glyphs_white/rectangle.and.arrow.up.right.and.arrow.down.left.slash.png"
+  },
+  {
+    "name": "chart.bar",
+    "img": "glyphs_white/chart.bar.png"
+  },
+  {
+    "name": "chart.bar.fill",
+    "img": "glyphs_white/chart.bar.fill.png"
+  },
+  {
+    "name": "chart.pie",
+    "img": "glyphs_white/chart.pie.png"
+  },
+  {
+    "name": "chart.pie.fill",
+    "img": "glyphs_white/chart.pie.fill.png"
+  },
+  {
+    "name": "burst",
+    "img": "glyphs_white/burst.png"
+  },
+  {
+    "name": "burst.fill",
+    "img": "glyphs_white/burst.fill.png"
+  },
+  {
+    "name": "waveform.path.ecg",
+    "img": "glyphs_white/waveform.path.ecg.png"
+  },
+  {
+    "name": "waveform.path",
+    "img": "glyphs_white/waveform.path.png"
+  },
+  {
+    "name": "waveform.path.badge.plus",
+    "img": "glyphs_white/waveform.path.badge.plus.png"
+  },
+  {
+    "name": "waveform.path.badge.minus",
+    "img": "glyphs_white/waveform.path.badge.minus.png"
+  },
+  {
+    "name": "waveform",
+    "img": "glyphs_white/waveform.png"
+  },
+  {
+    "name": "waveform.circle",
+    "img": "glyphs_white/waveform.circle.png"
+  },
+  {
+    "name": "waveform.circle.fill",
+    "img": "glyphs_white/waveform.circle.fill.png"
+  },
+  {
+    "name": "staroflife",
+    "img": "glyphs_white/staroflife.png"
+  },
+  {
+    "name": "staroflife.fill",
+    "img": "glyphs_white/staroflife.fill.png"
+  },
+  {
+    "name": "headphones",
+    "img": "glyphs_white/headphones.png"
+  },
+  {
+    "name": "gift",
+    "img": "glyphs_white/gift.png"
+  },
+  {
+    "name": "gift.fill",
+    "img": "glyphs_white/gift.fill.png"
+  },
+  {
+    "name": "app",
+    "img": "glyphs_white/app.png"
+  },
+  {
+    "name": "app.fill",
+    "img": "glyphs_white/app.fill.png"
+  },
+  {
+    "name": "plus.app",
+    "img": "glyphs_white/plus.app.png"
+  },
+  {
+    "name": "plus.app.fill",
+    "img": "glyphs_white/plus.app.fill.png"
+  },
+  {
+    "name": "app.badge",
+    "img": "glyphs_white/app.badge.png"
+  },
+  {
+    "name": "app.badge.fill",
+    "img": "glyphs_white/app.badge.fill.png"
+  },
+  {
+    "name": "app.gift",
+    "img": "glyphs_white/app.gift.png"
+  },
+  {
+    "name": "app.gift.fill",
+    "img": "glyphs_white/app.gift.fill.png"
+  },
+  {
+    "name": "airplane",
+    "img": "glyphs_white/airplane.png"
+  },
+  {
+    "name": "studentdesk",
+    "img": "glyphs_white/studentdesk.png"
+  },
+  {
+    "name": "hourglass",
+    "img": "glyphs_white/hourglass.png"
+  },
+  {
+    "name": "hourglass.bottomhalf.fill",
+    "img": "glyphs_white/hourglass.bottomhalf.fill.png"
+  },
+  {
+    "name": "hourglass.tophalf.fill",
+    "img": "glyphs_white/hourglass.tophalf.fill.png"
+  },
+  {
+    "name": "paragraph",
+    "img": "glyphs_white/paragraph.png"
+  },
+  {
+    "name": "purchased",
+    "img": "glyphs_white/purchased.png"
+  },
+  {
+    "name": "purchased.circle",
+    "img": "glyphs_white/purchased.circle.png"
+  },
+  {
+    "name": "purchased.circle.fill",
+    "img": "glyphs_white/purchased.circle.fill.png"
+  },
+  {
+    "name": "exclamationmark.octagon",
+    "img": "glyphs_white/exclamationmark.octagon.png"
+  },
+  {
+    "name": "exclamationmark.octagon.fill",
+    "img": "glyphs_white/exclamationmark.octagon.fill.png"
+  },
+  {
+    "name": "xmark.octagon",
+    "img": "glyphs_white/xmark.octagon.png"
+  },
+  {
+    "name": "xmark.octagon.fill",
+    "img": "glyphs_white/xmark.octagon.fill.png"
+  },
+  {
+    "name": "bolt.horizontal",
+    "img": "glyphs_white/bolt.horizontal.png"
+  },
+  {
+    "name": "bolt.horizontal.fill",
+    "img": "glyphs_white/bolt.horizontal.fill.png"
+  },
+  {
+    "name": "bolt.horizontal.circle",
+    "img": "glyphs_white/bolt.horizontal.circle.png"
+  },
+  {
+    "name": "bolt.horizontal.circle.fill",
+    "img": "glyphs_white/bolt.horizontal.circle.fill.png"
+  },
+  {
+    "name": "perspective",
+    "img": "glyphs_white/perspective.png"
+  },
+  {
+    "name": "aspectratio",
+    "img": "glyphs_white/aspectratio.png"
+  },
+  {
+    "name": "aspectratio.fill",
+    "img": "glyphs_white/aspectratio.fill.png"
+  },
+  {
+    "name": "skew",
+    "img": "glyphs_white/skew.png"
+  },
+  {
+    "name": "flip.horizontal",
+    "img": "glyphs_white/flip.horizontal.png"
+  },
+  {
+    "name": "flip.horizontal.fill",
+    "img": "glyphs_white/flip.horizontal.fill.png"
+  },
+  {
+    "name": "grid",
+    "img": "glyphs_white/grid.png"
+  },
+  {
+    "name": "grid.circle",
+    "img": "glyphs_white/grid.circle.png"
+  },
+  {
+    "name": "grid.circle.fill",
+    "img": "glyphs_white/grid.circle.fill.png"
+  },
+  {
+    "name": "burn",
+    "img": "glyphs_white/burn.png"
+  },
+  {
+    "name": "scribble",
+    "img": "glyphs_white/scribble.png"
+  },
+  {
+    "name": "lasso",
+    "img": "glyphs_white/lasso.png"
+  },
+  {
+    "name": "recordingtape",
+    "img": "glyphs_white/recordingtape.png"
+  },
+  {
+    "name": "eyeglasses",
+    "img": "glyphs_white/eyeglasses.png"
+  },
+  {
+    "name": "battery.100",
+    "img": "glyphs_white/battery.100.png"
+  },
+  {
+    "name": "battery.25",
+    "img": "glyphs_white/battery.25.png"
+  },
+  {
+    "name": "battery.0",
+    "img": "glyphs_white/battery.0.png"
+  },
+  {
+    "name": "lightbulb",
+    "img": "glyphs_white/lightbulb.png"
+  },
+  {
+    "name": "lightbulb.fill",
+    "img": "glyphs_white/lightbulb.fill.png"
+  },
+  {
+    "name": "lightbulb.slash",
+    "img": "glyphs_white/lightbulb.slash.png"
+  },
+  {
+    "name": "lightbulb.slash.fill",
+    "img": "glyphs_white/lightbulb.slash.fill.png"
+  },
+  {
+    "name": "list.dash",
+    "img": "glyphs_white/list.dash.png"
+  },
+  {
+    "name": "list.bullet",
+    "img": "glyphs_white/list.bullet.png"
+  },
+  {
+    "name": "list.bullet.indent",
+    "img": "glyphs_white/list.bullet.indent.png"
+  },
+  {
+    "name": "list.number",
+    "img": "glyphs_white/list.number.png"
+  },
+  {
+    "name": "increase.indent",
+    "img": "glyphs_white/increase.indent.png"
+  },
+  {
+    "name": "decrease.indent",
+    "img": "glyphs_white/decrease.indent.png"
+  },
+  {
+    "name": "decrease.quotelevel",
+    "img": "glyphs_white/decrease.quotelevel.png"
+  },
+  {
+    "name": "increase.quotelevel",
+    "img": "glyphs_white/increase.quotelevel.png"
+  },
+  {
+    "name": "list.bullet.below.rectangle",
+    "img": "glyphs_white/list.bullet.below.rectangle.png"
+  },
+  {
+    "name": "text.badge.plus",
+    "img": "glyphs_white/text.badge.plus.png"
+  },
+  {
+    "name": "text.badge.minus",
+    "img": "glyphs_white/text.badge.minus.png"
+  },
+  {
+    "name": "text.badge.checkmark",
+    "img": "glyphs_white/text.badge.checkmark.png"
+  },
+  {
+    "name": "text.badge.xmark",
+    "img": "glyphs_white/text.badge.xmark.png"
+  },
+  {
+    "name": "text.badge.star",
+    "img": "glyphs_white/text.badge.star.png"
+  },
+  {
+    "name": "text.insert",
+    "img": "glyphs_white/text.insert.png"
+  },
+  {
+    "name": "text.append",
+    "img": "glyphs_white/text.append.png"
+  },
+  {
+    "name": "text.quote",
+    "img": "glyphs_white/text.quote.png"
+  },
+  {
+    "name": "text.alignleft",
+    "img": "glyphs_white/text.alignleft.png"
+  },
+  {
+    "name": "text.aligncenter",
+    "img": "glyphs_white/text.aligncenter.png"
+  },
+  {
+    "name": "text.alignright",
+    "img": "glyphs_white/text.alignright.png"
+  },
+  {
+    "name": "text.justify",
+    "img": "glyphs_white/text.justify.png"
+  },
+  {
+    "name": "text.justifyleft",
+    "img": "glyphs_white/text.justifyleft.png"
+  },
+  {
+    "name": "text.justifyright",
+    "img": "glyphs_white/text.justifyright.png"
+  },
+  {
+    "name": "slider.horizontal.3",
+    "img": "glyphs_white/slider.horizontal.3.png"
+  },
+  {
+    "name": "line.horizontal.3",
+    "img": "glyphs_white/line.horizontal.3.png"
+  },
+  {
+    "name": "line.horizontal.3.decrease",
+    "img": "glyphs_white/line.horizontal.3.decrease.png"
+  },
+  {
+    "name": "line.horizontal.3.decrease.circle",
+    "img": "glyphs_white/line.horizontal.3.decrease.circle.png"
+  },
+  {
+    "name": "line.horizontal.3.decrease.circle.fill",
+    "img": "glyphs_white/line.horizontal.3.decrease.circle.fill.png"
+  },
+  {
+    "name": "a",
+    "img": "glyphs_white/a.png"
+  },
+  {
+    "name": "textformat.size",
+    "img": "glyphs_white/textformat.size.png"
+  },
+  {
+    "name": "textformat.alt",
+    "img": "glyphs_white/textformat.alt.png"
+  },
+  {
+    "name": "textformat",
+    "img": "glyphs_white/textformat.png"
+  },
+  {
+    "name": "textformat.subscript",
+    "img": "glyphs_white/textformat.subscript.png"
+  },
+  {
+    "name": "textformat.superscript",
+    "img": "glyphs_white/textformat.superscript.png"
+  },
+  {
+    "name": "bold",
+    "img": "glyphs_white/bold.png"
+  },
+  {
+    "name": "italic",
+    "img": "glyphs_white/italic.png"
+  },
+  {
+    "name": "underline",
+    "img": "glyphs_white/underline.png"
+  },
+  {
+    "name": "strikethrough",
+    "img": "glyphs_white/strikethrough.png"
+  },
+  {
+    "name": "bold.italic.underline",
+    "img": "glyphs_white/bold.italic.underline.png"
+  },
+  {
+    "name": "bold.underline",
+    "img": "glyphs_white/bold.underline.png"
+  },
+  {
+    "name": "view.2d",
+    "img": "glyphs_white/view.2d.png"
+  },
+  {
+    "name": "view.3d",
+    "img": "glyphs_white/view.3d.png"
+  },
+  {
+    "name": "text.cursor",
+    "img": "glyphs_white/text.cursor.png"
+  },
+  {
+    "name": "fx",
+    "img": "glyphs_white/fx.png"
+  },
+  {
+    "name": "f.cursive",
+    "img": "glyphs_white/f.cursive.png"
+  },
+  {
+    "name": "f.cursive.circle",
+    "img": "glyphs_white/f.cursive.circle.png"
+  },
+  {
+    "name": "f.cursive.circle.fill",
+    "img": "glyphs_white/f.cursive.circle.fill.png"
+  },
+  {
+    "name": "sum",
+    "img": "glyphs_white/sum.png"
+  },
+  {
+    "name": "percent",
+    "img": "glyphs_white/percent.png"
+  },
+  {
+    "name": "function",
+    "img": "glyphs_white/function.png"
+  },
+  {
+    "name": "textformat.abc",
+    "img": "glyphs_white/textformat.abc.png"
+  },
+  {
+    "name": "textformat.abc.dottedunderline",
+    "img": "glyphs_white/textformat.abc.dottedunderline.png"
+  },
+  {
+    "name": "textformat.123",
+    "img": "glyphs_white/textformat.123.png"
+  },
+  {
+    "name": "info",
+    "img": "glyphs_white/info.png"
+  },
+  {
+    "name": "info.circle",
+    "img": "glyphs_white/info.circle.png"
+  },
+  {
+    "name": "info.circle.fill",
+    "img": "glyphs_white/info.circle.fill.png"
+  },
+  {
+    "name": "textbox",
+    "img": "glyphs_white/textbox.png"
+  },
+  {
+    "name": "at",
+    "img": "glyphs_white/at.png"
+  },
+  {
+    "name": "at.badge.plus",
+    "img": "glyphs_white/at.badge.plus.png"
+  },
+  {
+    "name": "at.badge.minus",
+    "img": "glyphs_white/at.badge.minus.png"
+  },
+  {
+    "name": "questionmark",
+    "img": "glyphs_white/questionmark.png"
+  },
+  {
+    "name": "questionmark.circle",
+    "img": "glyphs_white/questionmark.circle.png"
+  },
+  {
+    "name": "questionmark.circle.fill",
+    "img": "glyphs_white/questionmark.circle.fill.png"
+  },
+  {
+    "name": "questionmark.square",
+    "img": "glyphs_white/questionmark.square.png"
+  },
+  {
+    "name": "questionmark.square.fill",
+    "img": "glyphs_white/questionmark.square.fill.png"
+  },
+  {
+    "name": "questionmark.diamond",
+    "img": "glyphs_white/questionmark.diamond.png"
+  },
+  {
+    "name": "questionmark.diamond.fill",
+    "img": "glyphs_white/questionmark.diamond.fill.png"
+  },
+  {
+    "name": "exclamationmark",
+    "img": "glyphs_white/exclamationmark.png"
+  },
+  {
+    "name": "exclamationmark.circle",
+    "img": "glyphs_white/exclamationmark.circle.png"
+  },
+  {
+    "name": "exclamationmark.circle.fill",
+    "img": "glyphs_white/exclamationmark.circle.fill.png"
+  },
+  {
+    "name": "exclamationmark.square",
+    "img": "glyphs_white/exclamationmark.square.png"
+  },
+  {
+    "name": "exclamationmark.square.fill",
+    "img": "glyphs_white/exclamationmark.square.fill.png"
+  },
+  {
+    "name": "plus",
+    "img": "glyphs_white/plus.png"
+  },
+  {
+    "name": "plus.circle",
+    "img": "glyphs_white/plus.circle.png"
+  },
+  {
+    "name": "plus.circle.fill",
+    "img": "glyphs_white/plus.circle.fill.png"
+  },
+  {
+    "name": "plus.square",
+    "img": "glyphs_white/plus.square.png"
+  },
+  {
+    "name": "plus.square.fill",
+    "img": "glyphs_white/plus.square.fill.png"
+  },
+  {
+    "name": "minus",
+    "img": "glyphs_white/minus.png"
+  },
+  {
+    "name": "minus.circle",
+    "img": "glyphs_white/minus.circle.png"
+  },
+  {
+    "name": "minus.circle.fill",
+    "img": "glyphs_white/minus.circle.fill.png"
+  },
+  {
+    "name": "minus.square",
+    "img": "glyphs_white/minus.square.png"
+  },
+  {
+    "name": "minus.square.fill",
+    "img": "glyphs_white/minus.square.fill.png"
+  },
+  {
+    "name": "plusminus",
+    "img": "glyphs_white/plusminus.png"
+  },
+  {
+    "name": "plusminus.circle",
+    "img": "glyphs_white/plusminus.circle.png"
+  },
+  {
+    "name": "plusminus.circle.fill",
+    "img": "glyphs_white/plusminus.circle.fill.png"
+  },
+  {
+    "name": "plus.slash.minus",
+    "img": "glyphs_white/plus.slash.minus.png"
+  },
+  {
+    "name": "minus.slash.plus",
+    "img": "glyphs_white/minus.slash.plus.png"
+  },
+  {
+    "name": "multiply",
+    "img": "glyphs_white/multiply.png"
+  },
+  {
+    "name": "multiply.circle",
+    "img": "glyphs_white/multiply.circle.png"
+  },
+  {
+    "name": "multiply.circle.fill",
+    "img": "glyphs_white/multiply.circle.fill.png"
+  },
+  {
+    "name": "multiply.square",
+    "img": "glyphs_white/multiply.square.png"
+  },
+  {
+    "name": "multiply.square.fill",
+    "img": "glyphs_white/multiply.square.fill.png"
+  },
+  {
+    "name": "divide",
+    "img": "glyphs_white/divide.png"
+  },
+  {
+    "name": "divide.circle",
+    "img": "glyphs_white/divide.circle.png"
+  },
+  {
+    "name": "divide.circle.fill",
+    "img": "glyphs_white/divide.circle.fill.png"
+  },
+  {
+    "name": "divide.square",
+    "img": "glyphs_white/divide.square.png"
+  },
+  {
+    "name": "divide.square.fill",
+    "img": "glyphs_white/divide.square.fill.png"
+  },
+  {
+    "name": "equal",
+    "img": "glyphs_white/equal.png"
+  },
+  {
+    "name": "equal.circle",
+    "img": "glyphs_white/equal.circle.png"
+  },
+  {
+    "name": "equal.circle.fill",
+    "img": "glyphs_white/equal.circle.fill.png"
+  },
+  {
+    "name": "equal.square",
+    "img": "glyphs_white/equal.square.png"
+  },
+  {
+    "name": "equal.square.fill",
+    "img": "glyphs_white/equal.square.fill.png"
+  },
+  {
+    "name": "lessthan",
+    "img": "glyphs_white/lessthan.png"
+  },
+  {
+    "name": "lessthan.circle",
+    "img": "glyphs_white/lessthan.circle.png"
+  },
+  {
+    "name": "lessthan.circle.fill",
+    "img": "glyphs_white/lessthan.circle.fill.png"
+  },
+  {
+    "name": "lessthan.square",
+    "img": "glyphs_white/lessthan.square.png"
+  },
+  {
+    "name": "lessthan.square.fill",
+    "img": "glyphs_white/lessthan.square.fill.png"
+  },
+  {
+    "name": "greaterthan",
+    "img": "glyphs_white/greaterthan.png"
+  },
+  {
+    "name": "greaterthan.circle",
+    "img": "glyphs_white/greaterthan.circle.png"
+  },
+  {
+    "name": "greaterthan.circle.fill",
+    "img": "glyphs_white/greaterthan.circle.fill.png"
+  },
+  {
+    "name": "greaterthan.square",
+    "img": "glyphs_white/greaterthan.square.png"
+  },
+  {
+    "name": "greaterthan.square.fill",
+    "img": "glyphs_white/greaterthan.square.fill.png"
+  },
+  {
+    "name": "chevron.left.slash.chevron.right",
+    "img": "glyphs_white/chevron.left.slash.chevron.right.png"
+  },
+  {
+    "name": "number",
+    "img": "glyphs_white/number.png"
+  },
+  {
+    "name": "number.circle",
+    "img": "glyphs_white/number.circle.png"
+  },
+  {
+    "name": "number.circle.fill",
+    "img": "glyphs_white/number.circle.fill.png"
+  },
+  {
+    "name": "number.square",
+    "img": "glyphs_white/number.square.png"
+  },
+  {
+    "name": "number.square.fill",
+    "img": "glyphs_white/number.square.fill.png"
+  },
+  {
+    "name": "x.squareroot",
+    "img": "glyphs_white/x.squareroot.png"
+  },
+  {
+    "name": "xmark",
+    "img": "glyphs_white/xmark.png"
+  },
+  {
+    "name": "xmark.circle",
+    "img": "glyphs_white/xmark.circle.png"
+  },
+  {
+    "name": "xmark.circle.fill",
+    "img": "glyphs_white/xmark.circle.fill.png"
+  },
+  {
+    "name": "xmark.square",
+    "img": "glyphs_white/xmark.square.png"
+  },
+  {
+    "name": "xmark.square.fill",
+    "img": "glyphs_white/xmark.square.fill.png"
+  },
+  {
+    "name": "checkmark",
+    "img": "glyphs_white/checkmark.png"
+  },
+  {
+    "name": "checkmark.circle",
+    "img": "glyphs_white/checkmark.circle.png"
+  },
+  {
+    "name": "checkmark.circle.fill",
+    "img": "glyphs_white/checkmark.circle.fill.png"
+  },
+  {
+    "name": "checkmark.square",
+    "img": "glyphs_white/checkmark.square.png"
+  },
+  {
+    "name": "checkmark.square.fill",
+    "img": "glyphs_white/checkmark.square.fill.png"
+  },
+  {
+    "name": "chevron.up",
+    "img": "glyphs_white/chevron.up.png"
+  },
+  {
+    "name": "chevron.up.circle",
+    "img": "glyphs_white/chevron.up.circle.png"
+  },
+  {
+    "name": "chevron.up.circle.fill",
+    "img": "glyphs_white/chevron.up.circle.fill.png"
+  },
+  {
+    "name": "chevron.up.square",
+    "img": "glyphs_white/chevron.up.square.png"
+  },
+  {
+    "name": "chevron.up.square.fill",
+    "img": "glyphs_white/chevron.up.square.fill.png"
+  },
+  {
+    "name": "chevron.down",
+    "img": "glyphs_white/chevron.down.png"
+  },
+  {
+    "name": "chevron.down.circle",
+    "img": "glyphs_white/chevron.down.circle.png"
+  },
+  {
+    "name": "chevron.down.circle.fill",
+    "img": "glyphs_white/chevron.down.circle.fill.png"
+  },
+  {
+    "name": "chevron.down.square",
+    "img": "glyphs_white/chevron.down.square.png"
+  },
+  {
+    "name": "chevron.down.square.fill",
+    "img": "glyphs_white/chevron.down.square.fill.png"
+  },
+  {
+    "name": "chevron.left",
+    "img": "glyphs_white/chevron.left.png"
+  },
+  {
+    "name": "chevron.left.circle",
+    "img": "glyphs_white/chevron.left.circle.png"
+  },
+  {
+    "name": "chevron.left.circle.fill",
+    "img": "glyphs_white/chevron.left.circle.fill.png"
+  },
+  {
+    "name": "chevron.left.square",
+    "img": "glyphs_white/chevron.left.square.png"
+  },
+  {
+    "name": "chevron.left.square.fill",
+    "img": "glyphs_white/chevron.left.square.fill.png"
+  },
+  {
+    "name": "chevron.right",
+    "img": "glyphs_white/chevron.right.png"
+  },
+  {
+    "name": "chevron.right.circle",
+    "img": "glyphs_white/chevron.right.circle.png"
+  },
+  {
+    "name": "chevron.right.circle.fill",
+    "img": "glyphs_white/chevron.right.circle.fill.png"
+  },
+  {
+    "name": "chevron.right.square",
+    "img": "glyphs_white/chevron.right.square.png"
+  },
+  {
+    "name": "chevron.right.square.fill",
+    "img": "glyphs_white/chevron.right.square.fill.png"
+  },
+  {
+    "name": "chevron.left.2",
+    "img": "glyphs_white/chevron.left.2.png"
+  },
+  {
+    "name": "chevron.right.2",
+    "img": "glyphs_white/chevron.right.2.png"
+  },
+  {
+    "name": "control",
+    "img": "glyphs_white/control.png"
+  },
+  {
+    "name": "projective",
+    "img": "glyphs_white/projective.png"
+  },
+  {
+    "name": "chevron.up.chevron.down",
+    "img": "glyphs_white/chevron.up.chevron.down.png"
+  },
+  {
+    "name": "chevron.compact.up",
+    "img": "glyphs_white/chevron.compact.up.png"
+  },
+  {
+    "name": "chevron.compact.down",
+    "img": "glyphs_white/chevron.compact.down.png"
+  },
+  {
+    "name": "chevron.compact.left",
+    "img": "glyphs_white/chevron.compact.left.png"
+  },
+  {
+    "name": "chevron.compact.right",
+    "img": "glyphs_white/chevron.compact.right.png"
+  },
+  {
+    "name": "arrow.up",
+    "img": "glyphs_white/arrow.up.png"
+  },
+  {
+    "name": "arrow.up.circle",
+    "img": "glyphs_white/arrow.up.circle.png"
+  },
+  {
+    "name": "arrow.up.circle.fill",
+    "img": "glyphs_white/arrow.up.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.square",
+    "img": "glyphs_white/arrow.up.square.png"
+  },
+  {
+    "name": "arrow.up.square.fill",
+    "img": "glyphs_white/arrow.up.square.fill.png"
+  },
+  {
+    "name": "arrow.down",
+    "img": "glyphs_white/arrow.down.png"
+  },
+  {
+    "name": "arrow.down.circle",
+    "img": "glyphs_white/arrow.down.circle.png"
+  },
+  {
+    "name": "arrow.down.circle.fill",
+    "img": "glyphs_white/arrow.down.circle.fill.png"
+  },
+  {
+    "name": "arrow.down.square",
+    "img": "glyphs_white/arrow.down.square.png"
+  },
+  {
+    "name": "arrow.down.square.fill",
+    "img": "glyphs_white/arrow.down.square.fill.png"
+  },
+  {
+    "name": "arrow.left",
+    "img": "glyphs_white/arrow.left.png"
+  },
+  {
+    "name": "arrow.left.circle",
+    "img": "glyphs_white/arrow.left.circle.png"
+  },
+  {
+    "name": "arrow.left.circle.fill",
+    "img": "glyphs_white/arrow.left.circle.fill.png"
+  },
+  {
+    "name": "arrow.left.square",
+    "img": "glyphs_white/arrow.left.square.png"
+  },
+  {
+    "name": "arrow.left.square.fill",
+    "img": "glyphs_white/arrow.left.square.fill.png"
+  },
+  {
+    "name": "arrow.right",
+    "img": "glyphs_white/arrow.right.png"
+  },
+  {
+    "name": "arrow.right.circle",
+    "img": "glyphs_white/arrow.right.circle.png"
+  },
+  {
+    "name": "arrow.right.circle.fill",
+    "img": "glyphs_white/arrow.right.circle.fill.png"
+  },
+  {
+    "name": "arrow.right.square",
+    "img": "glyphs_white/arrow.right.square.png"
+  },
+  {
+    "name": "arrow.right.square.fill",
+    "img": "glyphs_white/arrow.right.square.fill.png"
+  },
+  {
+    "name": "arrow.up.left",
+    "img": "glyphs_white/arrow.up.left.png"
+  },
+  {
+    "name": "arrow.up.left.circle",
+    "img": "glyphs_white/arrow.up.left.circle.png"
+  },
+  {
+    "name": "arrow.up.left.circle.fill",
+    "img": "glyphs_white/arrow.up.left.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.left.square",
+    "img": "glyphs_white/arrow.up.left.square.png"
+  },
+  {
+    "name": "arrow.up.left.square.fill",
+    "img": "glyphs_white/arrow.up.left.square.fill.png"
+  },
+  {
+    "name": "arrow.up.right",
+    "img": "glyphs_white/arrow.up.right.png"
+  },
+  {
+    "name": "arrow.up.right.circle",
+    "img": "glyphs_white/arrow.up.right.circle.png"
+  },
+  {
+    "name": "arrow.up.right.circle.fill",
+    "img": "glyphs_white/arrow.up.right.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.right.square",
+    "img": "glyphs_white/arrow.up.right.square.png"
+  },
+  {
+    "name": "arrow.up.right.square.fill",
+    "img": "glyphs_white/arrow.up.right.square.fill.png"
+  },
+  {
+    "name": "arrow.down.left",
+    "img": "glyphs_white/arrow.down.left.png"
+  },
+  {
+    "name": "arrow.down.left.circle",
+    "img": "glyphs_white/arrow.down.left.circle.png"
+  },
+  {
+    "name": "arrow.down.left.circle.fill",
+    "img": "glyphs_white/arrow.down.left.circle.fill.png"
+  },
+  {
+    "name": "arrow.down.left.square",
+    "img": "glyphs_white/arrow.down.left.square.png"
+  },
+  {
+    "name": "arrow.down.left.square.fill",
+    "img": "glyphs_white/arrow.down.left.square.fill.png"
+  },
+  {
+    "name": "arrow.down.right",
+    "img": "glyphs_white/arrow.down.right.png"
+  },
+  {
+    "name": "arrow.down.right.circle",
+    "img": "glyphs_white/arrow.down.right.circle.png"
+  },
+  {
+    "name": "arrow.down.right.circle.fill",
+    "img": "glyphs_white/arrow.down.right.circle.fill.png"
+  },
+  {
+    "name": "arrow.down.right.square",
+    "img": "glyphs_white/arrow.down.right.square.png"
+  },
+  {
+    "name": "arrow.down.right.square.fill",
+    "img": "glyphs_white/arrow.down.right.square.fill.png"
+  },
+  {
+    "name": "arrow.up.arrow.down",
+    "img": "glyphs_white/arrow.up.arrow.down.png"
+  },
+  {
+    "name": "arrow.up.arrow.down.circle",
+    "img": "glyphs_white/arrow.up.arrow.down.circle.png"
+  },
+  {
+    "name": "arrow.up.arrow.down.circle.fill",
+    "img": "glyphs_white/arrow.up.arrow.down.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.arrow.down.square",
+    "img": "glyphs_white/arrow.up.arrow.down.square.png"
+  },
+  {
+    "name": "arrow.up.arrow.down.square.fill",
+    "img": "glyphs_white/arrow.up.arrow.down.square.fill.png"
+  },
+  {
+    "name": "arrow.right.arrow.left",
+    "img": "glyphs_white/arrow.right.arrow.left.png"
+  },
+  {
+    "name": "arrow.right.arrow.left.circle",
+    "img": "glyphs_white/arrow.right.arrow.left.circle.png"
+  },
+  {
+    "name": "arrow.right.arrow.left.circle.fill",
+    "img": "glyphs_white/arrow.right.arrow.left.circle.fill.png"
+  },
+  {
+    "name": "arrow.right.arrow.left.square",
+    "img": "glyphs_white/arrow.right.arrow.left.square.png"
+  },
+  {
+    "name": "arrow.right.arrow.left.square.fill",
+    "img": "glyphs_white/arrow.right.arrow.left.square.fill.png"
+  },
+  {
+    "name": "arrow.turn.right.up",
+    "img": "glyphs_white/arrow.turn.right.up.png"
+  },
+  {
+    "name": "arrow.turn.right.down",
+    "img": "glyphs_white/arrow.turn.right.down.png"
+  },
+  {
+    "name": "arrow.turn.down.left",
+    "img": "glyphs_white/arrow.turn.down.left.png"
+  },
+  {
+    "name": "arrow.turn.down.right",
+    "img": "glyphs_white/arrow.turn.down.right.png"
+  },
+  {
+    "name": "arrow.turn.left.up",
+    "img": "glyphs_white/arrow.turn.left.up.png"
+  },
+  {
+    "name": "arrow.turn.left.down",
+    "img": "glyphs_white/arrow.turn.left.down.png"
+  },
+  {
+    "name": "arrow.turn.up.left",
+    "img": "glyphs_white/arrow.turn.up.left.png"
+  },
+  {
+    "name": "arrow.turn.up.right",
+    "img": "glyphs_white/arrow.turn.up.right.png"
+  },
+  {
+    "name": "arrow.uturn.up",
+    "img": "glyphs_white/arrow.uturn.up.png"
+  },
+  {
+    "name": "arrow.uturn.up.circle",
+    "img": "glyphs_white/arrow.uturn.up.circle.png"
+  },
+  {
+    "name": "arrow.uturn.up.circle.fill",
+    "img": "glyphs_white/arrow.uturn.up.circle.fill.png"
+  },
+  {
+    "name": "arrow.uturn.up.square",
+    "img": "glyphs_white/arrow.uturn.up.square.png"
+  },
+  {
+    "name": "arrow.uturn.up.square.fill",
+    "img": "glyphs_white/arrow.uturn.up.square.fill.png"
+  },
+  {
+    "name": "arrow.uturn.down",
+    "img": "glyphs_white/arrow.uturn.down.png"
+  },
+  {
+    "name": "arrow.uturn.down.circle",
+    "img": "glyphs_white/arrow.uturn.down.circle.png"
+  },
+  {
+    "name": "arrow.uturn.down.circle.fill",
+    "img": "glyphs_white/arrow.uturn.down.circle.fill.png"
+  },
+  {
+    "name": "arrow.uturn.down.square",
+    "img": "glyphs_white/arrow.uturn.down.square.png"
+  },
+  {
+    "name": "arrow.uturn.down.square.fill",
+    "img": "glyphs_white/arrow.uturn.down.square.fill.png"
+  },
+  {
+    "name": "arrow.uturn.left",
+    "img": "glyphs_white/arrow.uturn.left.png"
+  },
+  {
+    "name": "arrow.uturn.left.circle",
+    "img": "glyphs_white/arrow.uturn.left.circle.png"
+  },
+  {
+    "name": "arrow.uturn.left.circle.fill",
+    "img": "glyphs_white/arrow.uturn.left.circle.fill.png"
+  },
+  {
+    "name": "arrow.uturn.left.circle.badge.ellipsis",
+    "img": "glyphs_white/arrow.uturn.left.circle.badge.ellipsis.png"
+  },
+  {
+    "name": "arrow.uturn.left.square",
+    "img": "glyphs_white/arrow.uturn.left.square.png"
+  },
+  {
+    "name": "arrow.uturn.left.square.fill",
+    "img": "glyphs_white/arrow.uturn.left.square.fill.png"
+  },
+  {
+    "name": "arrow.uturn.right",
+    "img": "glyphs_white/arrow.uturn.right.png"
+  },
+  {
+    "name": "arrow.uturn.right.circle",
+    "img": "glyphs_white/arrow.uturn.right.circle.png"
+  },
+  {
+    "name": "arrow.uturn.right.circle.fill",
+    "img": "glyphs_white/arrow.uturn.right.circle.fill.png"
+  },
+  {
+    "name": "arrow.uturn.right.square",
+    "img": "glyphs_white/arrow.uturn.right.square.png"
+  },
+  {
+    "name": "arrow.uturn.right.square.fill",
+    "img": "glyphs_white/arrow.uturn.right.square.fill.png"
+  },
+  {
+    "name": "arrow.up.and.down",
+    "img": "glyphs_white/arrow.up.and.down.png"
+  },
+  {
+    "name": "arrow.up.and.down.circle",
+    "img": "glyphs_white/arrow.up.and.down.circle.png"
+  },
+  {
+    "name": "arrow.up.and.down.circle.fill",
+    "img": "glyphs_white/arrow.up.and.down.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.and.down.square",
+    "img": "glyphs_white/arrow.up.and.down.square.png"
+  },
+  {
+    "name": "arrow.up.and.down.square.fill",
+    "img": "glyphs_white/arrow.up.and.down.square.fill.png"
+  },
+  {
+    "name": "arrow.left.and.right",
+    "img": "glyphs_white/arrow.left.and.right.png"
+  },
+  {
+    "name": "arrow.left.and.right.circle",
+    "img": "glyphs_white/arrow.left.and.right.circle.png"
+  },
+  {
+    "name": "arrow.left.and.right.circle.fill",
+    "img": "glyphs_white/arrow.left.and.right.circle.fill.png"
+  },
+  {
+    "name": "arrow.left.and.right.square",
+    "img": "glyphs_white/arrow.left.and.right.square.png"
+  },
+  {
+    "name": "arrow.left.and.right.square.fill",
+    "img": "glyphs_white/arrow.left.and.right.square.fill.png"
+  },
+  {
+    "name": "arrow.up.to.line.alt",
+    "img": "glyphs_white/arrow.up.to.line.alt.png"
+  },
+  {
+    "name": "arrow.up.to.line",
+    "img": "glyphs_white/arrow.up.to.line.png"
+  },
+  {
+    "name": "arrow.down.to.line.alt",
+    "img": "glyphs_white/arrow.down.to.line.alt.png"
+  },
+  {
+    "name": "arrow.down.to.line",
+    "img": "glyphs_white/arrow.down.to.line.png"
+  },
+  {
+    "name": "arrow.left.to.line.alt",
+    "img": "glyphs_white/arrow.left.to.line.alt.png"
+  },
+  {
+    "name": "arrow.left.to.line",
+    "img": "glyphs_white/arrow.left.to.line.png"
+  },
+  {
+    "name": "arrow.right.to.line.alt",
+    "img": "glyphs_white/arrow.right.to.line.alt.png"
+  },
+  {
+    "name": "arrow.right.to.line",
+    "img": "glyphs_white/arrow.right.to.line.png"
+  },
+  {
+    "name": "return",
+    "img": "glyphs_white/return.png"
+  },
+  {
+    "name": "arrow.clockwise",
+    "img": "glyphs_white/arrow.clockwise.png"
+  },
+  {
+    "name": "arrow.clockwise.circle",
+    "img": "glyphs_white/arrow.clockwise.circle.png"
+  },
+  {
+    "name": "arrow.clockwise.circle.fill",
+    "img": "glyphs_white/arrow.clockwise.circle.fill.png"
+  },
+  {
+    "name": "arrow.counterclockwise",
+    "img": "glyphs_white/arrow.counterclockwise.png"
+  },
+  {
+    "name": "arrow.counterclockwise.circle",
+    "img": "glyphs_white/arrow.counterclockwise.circle.png"
+  },
+  {
+    "name": "arrow.counterclockwise.circle.fill",
+    "img": "glyphs_white/arrow.counterclockwise.circle.fill.png"
+  },
+  {
+    "name": "arrow.up.left.and.arrow.down.right",
+    "img": "glyphs_white/arrow.up.left.and.arrow.down.right.png"
+  },
+  {
+    "name": "arrow.down.right.and.arrow.up.left",
+    "img": "glyphs_white/arrow.down.right.and.arrow.up.left.png"
+  },
+  {
+    "name": "arrow.2.squarepath",
+    "img": "glyphs_white/arrow.2.squarepath.png"
+  },
+  {
+    "name": "arrow.2.circlepath",
+    "img": "glyphs_white/arrow.2.circlepath.png"
+  },
+  {
+    "name": "arrow.2.circlepath.circle",
+    "img": "glyphs_white/arrow.2.circlepath.circle.png"
+  },
+  {
+    "name": "arrow.2.circlepath.circle.fill",
+    "img": "glyphs_white/arrow.2.circlepath.circle.fill.png"
+  },
+  {
+    "name": "arrow.3.trianglepath",
+    "img": "glyphs_white/arrow.3.trianglepath.png"
+  },
+  {
+    "name": "leaf.arrow.circlepath",
+    "img": "glyphs_white/leaf.arrow.circlepath.png"
+  },
+  {
+    "name": "arrow.up.right.diamond",
+    "img": "glyphs_white/arrow.up.right.diamond.png"
+  },
+  {
+    "name": "arrow.up.right.diamond.fill",
+    "img": "glyphs_white/arrow.up.right.diamond.fill.png"
+  },
+  {
+    "name": "arrow.merge",
+    "img": "glyphs_white/arrow.merge.png"
+  },
+  {
+    "name": "arrow.swap",
+    "img": "glyphs_white/arrow.swap.png"
+  },
+  {
+    "name": "arrow.branch",
+    "img": "glyphs_white/arrow.branch.png"
+  },
+  {
+    "name": "arrowtriangle.up",
+    "img": "glyphs_white/arrowtriangle.up.png"
+  },
+  {
+    "name": "arrowtriangle.up.fill",
+    "img": "glyphs_white/arrowtriangle.up.fill.png"
+  },
+  {
+    "name": "arrowtriangle.up.circle",
+    "img": "glyphs_white/arrowtriangle.up.circle.png"
+  },
+  {
+    "name": "arrowtriangle.up.circle.fill",
+    "img": "glyphs_white/arrowtriangle.up.circle.fill.png"
+  },
+  {
+    "name": "arrowtriangle.up.square",
+    "img": "glyphs_white/arrowtriangle.up.square.png"
+  },
+  {
+    "name": "arrowtriangle.up.square.fill",
+    "img": "glyphs_white/arrowtriangle.up.square.fill.png"
+  },
+  {
+    "name": "arrowtriangle.down",
+    "img": "glyphs_white/arrowtriangle.down.png"
+  },
+  {
+    "name": "arrowtriangle.down.fill",
+    "img": "glyphs_white/arrowtriangle.down.fill.png"
+  },
+  {
+    "name": "arrowtriangle.down.circle",
+    "img": "glyphs_white/arrowtriangle.down.circle.png"
+  },
+  {
+    "name": "arrowtriangle.down.circle.fill",
+    "img": "glyphs_white/arrowtriangle.down.circle.fill.png"
+  },
+  {
+    "name": "arrowtriangle.down.square",
+    "img": "glyphs_white/arrowtriangle.down.square.png"
+  },
+  {
+    "name": "arrowtriangle.down.square.fill",
+    "img": "glyphs_white/arrowtriangle.down.square.fill.png"
+  },
+  {
+    "name": "arrowtriangle.left",
+    "img": "glyphs_white/arrowtriangle.left.png"
+  },
+  {
+    "name": "arrowtriangle.left.fill",
+    "img": "glyphs_white/arrowtriangle.left.fill.png"
+  },
+  {
+    "name": "arrowtriangle.left.circle",
+    "img": "glyphs_white/arrowtriangle.left.circle.png"
+  },
+  {
+    "name": "arrowtriangle.left.circle.fill",
+    "img": "glyphs_white/arrowtriangle.left.circle.fill.png"
+  },
+  {
+    "name": "arrowtriangle.left.square",
+    "img": "glyphs_white/arrowtriangle.left.square.png"
+  },
+  {
+    "name": "arrowtriangle.left.square.fill",
+    "img": "glyphs_white/arrowtriangle.left.square.fill.png"
+  },
+  {
+    "name": "arrowtriangle.right",
+    "img": "glyphs_white/arrowtriangle.right.png"
+  },
+  {
+    "name": "arrowtriangle.right.fill",
+    "img": "glyphs_white/arrowtriangle.right.fill.png"
+  },
+  {
+    "name": "arrowtriangle.right.circle",
+    "img": "glyphs_white/arrowtriangle.right.circle.png"
+  },
+  {
+    "name": "arrowtriangle.right.circle.fill",
+    "img": "glyphs_white/arrowtriangle.right.circle.fill.png"
+  },
+  {
+    "name": "arrowtriangle.right.square",
+    "img": "glyphs_white/arrowtriangle.right.square.png"
+  },
+  {
+    "name": "arrowtriangle.right.square.fill",
+    "img": "glyphs_white/arrowtriangle.right.square.fill.png"
+  },
+  {
+    "name": "triangle",
+    "img": "glyphs_white/triangle.png"
+  },
+  {
+    "name": "triangle.fill",
+    "img": "glyphs_white/triangle.fill.png"
+  },
+  {
+    "name": "triangle.lefthalf.fill",
+    "img": "glyphs_white/triangle.lefthalf.fill.png"
+  },
+  {
+    "name": "triangle.righthalf.fill",
+    "img": "glyphs_white/triangle.righthalf.fill.png"
+  },
+  {
+    "name": "capsule",
+    "img": "glyphs_white/capsule.png"
+  },
+  {
+    "name": "capsule.fill",
+    "img": "glyphs_white/capsule.fill.png"
+  },
+  {
+    "name": "circle",
+    "img": "glyphs_white/circle.png"
+  },
+  {
+    "name": "circle.fill",
+    "img": "glyphs_white/circle.fill.png"
+  },
+  {
+    "name": "circle.lefthalf.fill",
+    "img": "glyphs_white/circle.lefthalf.fill.png"
+  },
+  {
+    "name": "circle.righthalf.fill",
+    "img": "glyphs_white/circle.righthalf.fill.png"
+  },
+  {
+    "name": "largecircle.fill.circle",
+    "img": "glyphs_white/largecircle.fill.circle.png"
+  },
+  {
+    "name": "smallcircle.fill.circle",
+    "img": "glyphs_white/smallcircle.fill.circle.png"
+  },
+  {
+    "name": "smallcircle.fill.circle.fill",
+    "img": "glyphs_white/smallcircle.fill.circle.fill.png"
+  },
+  {
+    "name": "smallcircle.circle",
+    "img": "glyphs_white/smallcircle.circle.png"
+  },
+  {
+    "name": "smallcircle.circle.fill",
+    "img": "glyphs_white/smallcircle.circle.fill.png"
+  },
+  {
+    "name": "slash.circle",
+    "img": "glyphs_white/slash.circle.png"
+  },
+  {
+    "name": "slash.circle.fill",
+    "img": "glyphs_white/slash.circle.fill.png"
+  },
+  {
+    "name": "asterisk.circle",
+    "img": "glyphs_white/asterisk.circle.png"
+  },
+  {
+    "name": "asterisk.circle.fill",
+    "img": "glyphs_white/asterisk.circle.fill.png"
+  },
+  {
+    "name": "a.circle",
+    "img": "glyphs_white/a.circle.png"
+  },
+  {
+    "name": "a.circle.fill",
+    "img": "glyphs_white/a.circle.fill.png"
+  },
+  {
+    "name": "b.circle",
+    "img": "glyphs_white/b.circle.png"
+  },
+  {
+    "name": "b.circle.fill",
+    "img": "glyphs_white/b.circle.fill.png"
+  },
+  {
+    "name": "c.circle",
+    "img": "glyphs_white/c.circle.png"
+  },
+  {
+    "name": "c.circle.fill",
+    "img": "glyphs_white/c.circle.fill.png"
+  },
+  {
+    "name": "d.circle",
+    "img": "glyphs_white/d.circle.png"
+  },
+  {
+    "name": "d.circle.fill",
+    "img": "glyphs_white/d.circle.fill.png"
+  },
+  {
+    "name": "e.circle",
+    "img": "glyphs_white/e.circle.png"
+  },
+  {
+    "name": "e.circle.fill",
+    "img": "glyphs_white/e.circle.fill.png"
+  },
+  {
+    "name": "f.circle",
+    "img": "glyphs_white/f.circle.png"
+  },
+  {
+    "name": "f.circle.fill",
+    "img": "glyphs_white/f.circle.fill.png"
+  },
+  {
+    "name": "g.circle",
+    "img": "glyphs_white/g.circle.png"
+  },
+  {
+    "name": "g.circle.fill",
+    "img": "glyphs_white/g.circle.fill.png"
+  },
+  {
+    "name": "h.circle",
+    "img": "glyphs_white/h.circle.png"
+  },
+  {
+    "name": "h.circle.fill",
+    "img": "glyphs_white/h.circle.fill.png"
+  },
+  {
+    "name": "i.circle",
+    "img": "glyphs_white/i.circle.png"
+  },
+  {
+    "name": "i.circle.fill",
+    "img": "glyphs_white/i.circle.fill.png"
+  },
+  {
+    "name": "j.circle",
+    "img": "glyphs_white/j.circle.png"
+  },
+  {
+    "name": "j.circle.fill",
+    "img": "glyphs_white/j.circle.fill.png"
+  },
+  {
+    "name": "k.circle",
+    "img": "glyphs_white/k.circle.png"
+  },
+  {
+    "name": "k.circle.fill",
+    "img": "glyphs_white/k.circle.fill.png"
+  },
+  {
+    "name": "l.circle",
+    "img": "glyphs_white/l.circle.png"
+  },
+  {
+    "name": "l.circle.fill",
+    "img": "glyphs_white/l.circle.fill.png"
+  },
+  {
+    "name": "m.circle",
+    "img": "glyphs_white/m.circle.png"
+  },
+  {
+    "name": "m.circle.fill",
+    "img": "glyphs_white/m.circle.fill.png"
+  },
+  {
+    "name": "n.circle",
+    "img": "glyphs_white/n.circle.png"
+  },
+  {
+    "name": "n.circle.fill",
+    "img": "glyphs_white/n.circle.fill.png"
+  },
+  {
+    "name": "o.circle",
+    "img": "glyphs_white/o.circle.png"
+  },
+  {
+    "name": "o.circle.fill",
+    "img": "glyphs_white/o.circle.fill.png"
+  },
+  {
+    "name": "p.circle",
+    "img": "glyphs_white/p.circle.png"
+  },
+  {
+    "name": "p.circle.fill",
+    "img": "glyphs_white/p.circle.fill.png"
+  },
+  {
+    "name": "q.circle",
+    "img": "glyphs_white/q.circle.png"
+  },
+  {
+    "name": "q.circle.fill",
+    "img": "glyphs_white/q.circle.fill.png"
+  },
+  {
+    "name": "r.circle",
+    "img": "glyphs_white/r.circle.png"
+  },
+  {
+    "name": "r.circle.fill",
+    "img": "glyphs_white/r.circle.fill.png"
+  },
+  {
+    "name": "s.circle",
+    "img": "glyphs_white/s.circle.png"
+  },
+  {
+    "name": "s.circle.fill",
+    "img": "glyphs_white/s.circle.fill.png"
+  },
+  {
+    "name": "t.circle",
+    "img": "glyphs_white/t.circle.png"
+  },
+  {
+    "name": "t.circle.fill",
+    "img": "glyphs_white/t.circle.fill.png"
+  },
+  {
+    "name": "u.circle",
+    "img": "glyphs_white/u.circle.png"
+  },
+  {
+    "name": "u.circle.fill",
+    "img": "glyphs_white/u.circle.fill.png"
+  },
+  {
+    "name": "v.circle",
+    "img": "glyphs_white/v.circle.png"
+  },
+  {
+    "name": "v.circle.fill",
+    "img": "glyphs_white/v.circle.fill.png"
+  },
+  {
+    "name": "w.circle",
+    "img": "glyphs_white/w.circle.png"
+  },
+  {
+    "name": "w.circle.fill",
+    "img": "glyphs_white/w.circle.fill.png"
+  },
+  {
+    "name": "x.circle",
+    "img": "glyphs_white/x.circle.png"
+  },
+  {
+    "name": "x.circle.fill",
+    "img": "glyphs_white/x.circle.fill.png"
+  },
+  {
+    "name": "y.circle",
+    "img": "glyphs_white/y.circle.png"
+  },
+  {
+    "name": "y.circle.fill",
+    "img": "glyphs_white/y.circle.fill.png"
+  },
+  {
+    "name": "z.circle",
+    "img": "glyphs_white/z.circle.png"
+  },
+  {
+    "name": "z.circle.fill",
+    "img": "glyphs_white/z.circle.fill.png"
+  },
+  {
+    "name": "dollarsign.circle",
+    "img": "glyphs_white/dollarsign.circle.png"
+  },
+  {
+    "name": "dollarsign.circle.fill",
+    "img": "glyphs_white/dollarsign.circle.fill.png"
+  },
+  {
+    "name": "centsign.circle",
+    "img": "glyphs_white/centsign.circle.png"
+  },
+  {
+    "name": "centsign.circle.fill",
+    "img": "glyphs_white/centsign.circle.fill.png"
+  },
+  {
+    "name": "yensign.circle",
+    "img": "glyphs_white/yensign.circle.png"
+  },
+  {
+    "name": "yensign.circle.fill",
+    "img": "glyphs_white/yensign.circle.fill.png"
+  },
+  {
+    "name": "sterlingsign.circle",
+    "img": "glyphs_white/sterlingsign.circle.png"
+  },
+  {
+    "name": "sterlingsign.circle.fill",
+    "img": "glyphs_white/sterlingsign.circle.fill.png"
+  },
+  {
+    "name": "francsign.circle",
+    "img": "glyphs_white/francsign.circle.png"
+  },
+  {
+    "name": "francsign.circle.fill",
+    "img": "glyphs_white/francsign.circle.fill.png"
+  },
+  {
+    "name": "florinsign.circle",
+    "img": "glyphs_white/florinsign.circle.png"
+  },
+  {
+    "name": "florinsign.circle.fill",
+    "img": "glyphs_white/florinsign.circle.fill.png"
+  },
+  {
+    "name": "turkishlirasign.circle",
+    "img": "glyphs_white/turkishlirasign.circle.png"
+  },
+  {
+    "name": "turkishlirasign.circle.fill",
+    "img": "glyphs_white/turkishlirasign.circle.fill.png"
+  },
+  {
+    "name": "rublesign.circle",
+    "img": "glyphs_white/rublesign.circle.png"
+  },
+  {
+    "name": "rublesign.circle.fill",
+    "img": "glyphs_white/rublesign.circle.fill.png"
+  },
+  {
+    "name": "eurosign.circle",
+    "img": "glyphs_white/eurosign.circle.png"
+  },
+  {
+    "name": "eurosign.circle.fill",
+    "img": "glyphs_white/eurosign.circle.fill.png"
+  },
+  {
+    "name": "dongsign.circle",
+    "img": "glyphs_white/dongsign.circle.png"
+  },
+  {
+    "name": "dongsign.circle.fill",
+    "img": "glyphs_white/dongsign.circle.fill.png"
+  },
+  {
+    "name": "indianrupeesign.circle",
+    "img": "glyphs_white/indianrupeesign.circle.png"
+  },
+  {
+    "name": "indianrupeesign.circle.fill",
+    "img": "glyphs_white/indianrupeesign.circle.fill.png"
+  },
+  {
+    "name": "tengesign.circle",
+    "img": "glyphs_white/tengesign.circle.png"
+  },
+  {
+    "name": "tengesign.circle.fill",
+    "img": "glyphs_white/tengesign.circle.fill.png"
+  },
+  {
+    "name": "pesetasign.circle",
+    "img": "glyphs_white/pesetasign.circle.png"
+  },
+  {
+    "name": "pesetasign.circle.fill",
+    "img": "glyphs_white/pesetasign.circle.fill.png"
+  },
+  {
+    "name": "pesosign.circle",
+    "img": "glyphs_white/pesosign.circle.png"
+  },
+  {
+    "name": "pesosign.circle.fill",
+    "img": "glyphs_white/pesosign.circle.fill.png"
+  },
+  {
+    "name": "kipsign.circle",
+    "img": "glyphs_white/kipsign.circle.png"
+  },
+  {
+    "name": "kipsign.circle.fill",
+    "img": "glyphs_white/kipsign.circle.fill.png"
+  },
+  {
+    "name": "wonsign.circle",
+    "img": "glyphs_white/wonsign.circle.png"
+  },
+  {
+    "name": "wonsign.circle.fill",
+    "img": "glyphs_white/wonsign.circle.fill.png"
+  },
+  {
+    "name": "lirasign.circle",
+    "img": "glyphs_white/lirasign.circle.png"
+  },
+  {
+    "name": "lirasign.circle.fill",
+    "img": "glyphs_white/lirasign.circle.fill.png"
+  },
+  {
+    "name": "australsign.circle",
+    "img": "glyphs_white/australsign.circle.png"
+  },
+  {
+    "name": "australsign.circle.fill",
+    "img": "glyphs_white/australsign.circle.fill.png"
+  },
+  {
+    "name": "hryvniasign.circle",
+    "img": "glyphs_white/hryvniasign.circle.png"
+  },
+  {
+    "name": "hryvniasign.circle.fill",
+    "img": "glyphs_white/hryvniasign.circle.fill.png"
+  },
+  {
+    "name": "nairasign.circle",
+    "img": "glyphs_white/nairasign.circle.png"
+  },
+  {
+    "name": "nairasign.circle.fill",
+    "img": "glyphs_white/nairasign.circle.fill.png"
+  },
+  {
+    "name": "guaranisign.circle",
+    "img": "glyphs_white/guaranisign.circle.png"
+  },
+  {
+    "name": "guaranisign.circle.fill",
+    "img": "glyphs_white/guaranisign.circle.fill.png"
+  },
+  {
+    "name": "coloncurrencysign.circle",
+    "img": "glyphs_white/coloncurrencysign.circle.png"
+  },
+  {
+    "name": "coloncurrencysign.circle.fill",
+    "img": "glyphs_white/coloncurrencysign.circle.fill.png"
+  },
+  {
+    "name": "cedisign.circle",
+    "img": "glyphs_white/cedisign.circle.png"
+  },
+  {
+    "name": "cedisign.circle.fill",
+    "img": "glyphs_white/cedisign.circle.fill.png"
+  },
+  {
+    "name": "cruzeirosign.circle",
+    "img": "glyphs_white/cruzeirosign.circle.png"
+  },
+  {
+    "name": "cruzeirosign.circle.fill",
+    "img": "glyphs_white/cruzeirosign.circle.fill.png"
+  },
+  {
+    "name": "tugriksign.circle",
+    "img": "glyphs_white/tugriksign.circle.png"
+  },
+  {
+    "name": "tugriksign.circle.fill",
+    "img": "glyphs_white/tugriksign.circle.fill.png"
+  },
+  {
+    "name": "millsign.circle",
+    "img": "glyphs_white/millsign.circle.png"
+  },
+  {
+    "name": "millsign.circle.fill",
+    "img": "glyphs_white/millsign.circle.fill.png"
+  },
+  {
+    "name": "sheqelsign.circle",
+    "img": "glyphs_white/sheqelsign.circle.png"
+  },
+  {
+    "name": "sheqelsign.circle.fill",
+    "img": "glyphs_white/sheqelsign.circle.fill.png"
+  },
+  {
+    "name": "manatsign.circle",
+    "img": "glyphs_white/manatsign.circle.png"
+  },
+  {
+    "name": "manatsign.circle.fill",
+    "img": "glyphs_white/manatsign.circle.fill.png"
+  },
+  {
+    "name": "rupeesign.circle",
+    "img": "glyphs_white/rupeesign.circle.png"
+  },
+  {
+    "name": "rupeesign.circle.fill",
+    "img": "glyphs_white/rupeesign.circle.fill.png"
+  },
+  {
+    "name": "bahtsign.circle",
+    "img": "glyphs_white/bahtsign.circle.png"
+  },
+  {
+    "name": "bahtsign.circle.fill",
+    "img": "glyphs_white/bahtsign.circle.fill.png"
+  },
+  {
+    "name": "larisign.circle",
+    "img": "glyphs_white/larisign.circle.png"
+  },
+  {
+    "name": "larisign.circle.fill",
+    "img": "glyphs_white/larisign.circle.fill.png"
+  },
+  {
+    "name": "bitcoinsign.circle",
+    "img": "glyphs_white/bitcoinsign.circle.png"
+  },
+  {
+    "name": "bitcoinsign.circle.fill",
+    "img": "glyphs_white/bitcoinsign.circle.fill.png"
+  },
+  {
+    "name": "0.circle",
+    "img": "glyphs_white/0.circle.png"
+  },
+  {
+    "name": "0.circle.fill",
+    "img": "glyphs_white/0.circle.fill.png"
+  },
+  {
+    "name": "1.circle",
+    "img": "glyphs_white/1.circle.png"
+  },
+  {
+    "name": "1.circle.fill",
+    "img": "glyphs_white/1.circle.fill.png"
+  },
+  {
+    "name": "2.circle",
+    "img": "glyphs_white/2.circle.png"
+  },
+  {
+    "name": "2.circle.fill",
+    "img": "glyphs_white/2.circle.fill.png"
+  },
+  {
+    "name": "3.circle",
+    "img": "glyphs_white/3.circle.png"
+  },
+  {
+    "name": "3.circle.fill",
+    "img": "glyphs_white/3.circle.fill.png"
+  },
+  {
+    "name": "4.circle",
+    "img": "glyphs_white/4.circle.png"
+  },
+  {
+    "name": "4.circle.fill",
+    "img": "glyphs_white/4.circle.fill.png"
+  },
+  {
+    "name": "4.alt.circle",
+    "img": "glyphs_white/4.alt.circle.png"
+  },
+  {
+    "name": "4.alt.circle.fill",
+    "img": "glyphs_white/4.alt.circle.fill.png"
+  },
+  {
+    "name": "5.circle",
+    "img": "glyphs_white/5.circle.png"
+  },
+  {
+    "name": "5.circle.fill",
+    "img": "glyphs_white/5.circle.fill.png"
+  },
+  {
+    "name": "6.circle",
+    "img": "glyphs_white/6.circle.png"
+  },
+  {
+    "name": "6.circle.fill",
+    "img": "glyphs_white/6.circle.fill.png"
+  },
+  {
+    "name": "6.alt.circle",
+    "img": "glyphs_white/6.alt.circle.png"
+  },
+  {
+    "name": "6.alt.circle.fill",
+    "img": "glyphs_white/6.alt.circle.fill.png"
+  },
+  {
+    "name": "7.circle",
+    "img": "glyphs_white/7.circle.png"
+  },
+  {
+    "name": "7.circle.fill",
+    "img": "glyphs_white/7.circle.fill.png"
+  },
+  {
+    "name": "8.circle",
+    "img": "glyphs_white/8.circle.png"
+  },
+  {
+    "name": "8.circle.fill",
+    "img": "glyphs_white/8.circle.fill.png"
+  },
+  {
+    "name": "9.circle",
+    "img": "glyphs_white/9.circle.png"
+  },
+  {
+    "name": "9.circle.fill",
+    "img": "glyphs_white/9.circle.fill.png"
+  },
+  {
+    "name": "9.alt.circle",
+    "img": "glyphs_white/9.alt.circle.png"
+  },
+  {
+    "name": "9.alt.circle.fill",
+    "img": "glyphs_white/9.alt.circle.fill.png"
+  },
+  {
+    "name": "00.circle",
+    "img": "glyphs_white/00.circle.png"
+  },
+  {
+    "name": "00.circle.fill",
+    "img": "glyphs_white/00.circle.fill.png"
+  },
+  {
+    "name": "01.circle",
+    "img": "glyphs_white/01.circle.png"
+  },
+  {
+    "name": "01.circle.fill",
+    "img": "glyphs_white/01.circle.fill.png"
+  },
+  {
+    "name": "02.circle",
+    "img": "glyphs_white/02.circle.png"
+  },
+  {
+    "name": "02.circle.fill",
+    "img": "glyphs_white/02.circle.fill.png"
+  },
+  {
+    "name": "03.circle",
+    "img": "glyphs_white/03.circle.png"
+  },
+  {
+    "name": "03.circle.fill",
+    "img": "glyphs_white/03.circle.fill.png"
+  },
+  {
+    "name": "04.circle",
+    "img": "glyphs_white/04.circle.png"
+  },
+  {
+    "name": "04.circle.fill",
+    "img": "glyphs_white/04.circle.fill.png"
+  },
+  {
+    "name": "05.circle",
+    "img": "glyphs_white/05.circle.png"
+  },
+  {
+    "name": "05.circle.fill",
+    "img": "glyphs_white/05.circle.fill.png"
+  },
+  {
+    "name": "06.circle",
+    "img": "glyphs_white/06.circle.png"
+  },
+  {
+    "name": "06.circle.fill",
+    "img": "glyphs_white/06.circle.fill.png"
+  },
+  {
+    "name": "07.circle",
+    "img": "glyphs_white/07.circle.png"
+  },
+  {
+    "name": "07.circle.fill",
+    "img": "glyphs_white/07.circle.fill.png"
+  },
+  {
+    "name": "08.circle",
+    "img": "glyphs_white/08.circle.png"
+  },
+  {
+    "name": "08.circle.fill",
+    "img": "glyphs_white/08.circle.fill.png"
+  },
+  {
+    "name": "09.circle",
+    "img": "glyphs_white/09.circle.png"
+  },
+  {
+    "name": "09.circle.fill",
+    "img": "glyphs_white/09.circle.fill.png"
+  },
+  {
+    "name": "10.circle",
+    "img": "glyphs_white/10.circle.png"
+  },
+  {
+    "name": "10.circle.fill",
+    "img": "glyphs_white/10.circle.fill.png"
+  },
+  {
+    "name": "11.circle",
+    "img": "glyphs_white/11.circle.png"
+  },
+  {
+    "name": "11.circle.fill",
+    "img": "glyphs_white/11.circle.fill.png"
+  },
+  {
+    "name": "12.circle",
+    "img": "glyphs_white/12.circle.png"
+  },
+  {
+    "name": "12.circle.fill",
+    "img": "glyphs_white/12.circle.fill.png"
+  },
+  {
+    "name": "13.circle",
+    "img": "glyphs_white/13.circle.png"
+  },
+  {
+    "name": "13.circle.fill",
+    "img": "glyphs_white/13.circle.fill.png"
+  },
+  {
+    "name": "14.circle",
+    "img": "glyphs_white/14.circle.png"
+  },
+  {
+    "name": "14.circle.fill",
+    "img": "glyphs_white/14.circle.fill.png"
+  },
+  {
+    "name": "15.circle",
+    "img": "glyphs_white/15.circle.png"
+  },
+  {
+    "name": "15.circle.fill",
+    "img": "glyphs_white/15.circle.fill.png"
+  },
+  {
+    "name": "16.circle",
+    "img": "glyphs_white/16.circle.png"
+  },
+  {
+    "name": "16.circle.fill",
+    "img": "glyphs_white/16.circle.fill.png"
+  },
+  {
+    "name": "17.circle",
+    "img": "glyphs_white/17.circle.png"
+  },
+  {
+    "name": "17.circle.fill",
+    "img": "glyphs_white/17.circle.fill.png"
+  },
+  {
+    "name": "18.circle",
+    "img": "glyphs_white/18.circle.png"
+  },
+  {
+    "name": "18.circle.fill",
+    "img": "glyphs_white/18.circle.fill.png"
+  },
+  {
+    "name": "19.circle",
+    "img": "glyphs_white/19.circle.png"
+  },
+  {
+    "name": "19.circle.fill",
+    "img": "glyphs_white/19.circle.fill.png"
+  },
+  {
+    "name": "20.circle",
+    "img": "glyphs_white/20.circle.png"
+  },
+  {
+    "name": "20.circle.fill",
+    "img": "glyphs_white/20.circle.fill.png"
+  },
+  {
+    "name": "21.circle",
+    "img": "glyphs_white/21.circle.png"
+  },
+  {
+    "name": "21.circle.fill",
+    "img": "glyphs_white/21.circle.fill.png"
+  },
+  {
+    "name": "22.circle",
+    "img": "glyphs_white/22.circle.png"
+  },
+  {
+    "name": "22.circle.fill",
+    "img": "glyphs_white/22.circle.fill.png"
+  },
+  {
+    "name": "23.circle",
+    "img": "glyphs_white/23.circle.png"
+  },
+  {
+    "name": "23.circle.fill",
+    "img": "glyphs_white/23.circle.fill.png"
+  },
+  {
+    "name": "24.circle",
+    "img": "glyphs_white/24.circle.png"
+  },
+  {
+    "name": "24.circle.fill",
+    "img": "glyphs_white/24.circle.fill.png"
+  },
+  {
+    "name": "25.circle",
+    "img": "glyphs_white/25.circle.png"
+  },
+  {
+    "name": "25.circle.fill",
+    "img": "glyphs_white/25.circle.fill.png"
+  },
+  {
+    "name": "26.circle",
+    "img": "glyphs_white/26.circle.png"
+  },
+  {
+    "name": "26.circle.fill",
+    "img": "glyphs_white/26.circle.fill.png"
+  },
+  {
+    "name": "27.circle",
+    "img": "glyphs_white/27.circle.png"
+  },
+  {
+    "name": "27.circle.fill",
+    "img": "glyphs_white/27.circle.fill.png"
+  },
+  {
+    "name": "28.circle",
+    "img": "glyphs_white/28.circle.png"
+  },
+  {
+    "name": "28.circle.fill",
+    "img": "glyphs_white/28.circle.fill.png"
+  },
+  {
+    "name": "29.circle",
+    "img": "glyphs_white/29.circle.png"
+  },
+  {
+    "name": "29.circle.fill",
+    "img": "glyphs_white/29.circle.fill.png"
+  },
+  {
+    "name": "30.circle",
+    "img": "glyphs_white/30.circle.png"
+  },
+  {
+    "name": "30.circle.fill",
+    "img": "glyphs_white/30.circle.fill.png"
+  },
+  {
+    "name": "31.circle",
+    "img": "glyphs_white/31.circle.png"
+  },
+  {
+    "name": "31.circle.fill",
+    "img": "glyphs_white/31.circle.fill.png"
+  },
+  {
+    "name": "32.circle",
+    "img": "glyphs_white/32.circle.png"
+  },
+  {
+    "name": "32.circle.fill",
+    "img": "glyphs_white/32.circle.fill.png"
+  },
+  {
+    "name": "33.circle",
+    "img": "glyphs_white/33.circle.png"
+  },
+  {
+    "name": "33.circle.fill",
+    "img": "glyphs_white/33.circle.fill.png"
+  },
+  {
+    "name": "34.circle",
+    "img": "glyphs_white/34.circle.png"
+  },
+  {
+    "name": "34.circle.fill",
+    "img": "glyphs_white/34.circle.fill.png"
+  },
+  {
+    "name": "35.circle",
+    "img": "glyphs_white/35.circle.png"
+  },
+  {
+    "name": "35.circle.fill",
+    "img": "glyphs_white/35.circle.fill.png"
+  },
+  {
+    "name": "36.circle",
+    "img": "glyphs_white/36.circle.png"
+  },
+  {
+    "name": "36.circle.fill",
+    "img": "glyphs_white/36.circle.fill.png"
+  },
+  {
+    "name": "37.circle",
+    "img": "glyphs_white/37.circle.png"
+  },
+  {
+    "name": "37.circle.fill",
+    "img": "glyphs_white/37.circle.fill.png"
+  },
+  {
+    "name": "38.circle",
+    "img": "glyphs_white/38.circle.png"
+  },
+  {
+    "name": "38.circle.fill",
+    "img": "glyphs_white/38.circle.fill.png"
+  },
+  {
+    "name": "39.circle",
+    "img": "glyphs_white/39.circle.png"
+  },
+  {
+    "name": "39.circle.fill",
+    "img": "glyphs_white/39.circle.fill.png"
+  },
+  {
+    "name": "40.circle",
+    "img": "glyphs_white/40.circle.png"
+  },
+  {
+    "name": "40.circle.fill",
+    "img": "glyphs_white/40.circle.fill.png"
+  },
+  {
+    "name": "41.circle",
+    "img": "glyphs_white/41.circle.png"
+  },
+  {
+    "name": "41.circle.fill",
+    "img": "glyphs_white/41.circle.fill.png"
+  },
+  {
+    "name": "42.circle",
+    "img": "glyphs_white/42.circle.png"
+  },
+  {
+    "name": "42.circle.fill",
+    "img": "glyphs_white/42.circle.fill.png"
+  },
+  {
+    "name": "43.circle",
+    "img": "glyphs_white/43.circle.png"
+  },
+  {
+    "name": "43.circle.fill",
+    "img": "glyphs_white/43.circle.fill.png"
+  },
+  {
+    "name": "44.circle",
+    "img": "glyphs_white/44.circle.png"
+  },
+  {
+    "name": "44.circle.fill",
+    "img": "glyphs_white/44.circle.fill.png"
+  },
+  {
+    "name": "45.circle",
+    "img": "glyphs_white/45.circle.png"
+  },
+  {
+    "name": "45.circle.fill",
+    "img": "glyphs_white/45.circle.fill.png"
+  },
+  {
+    "name": "46.circle",
+    "img": "glyphs_white/46.circle.png"
+  },
+  {
+    "name": "46.circle.fill",
+    "img": "glyphs_white/46.circle.fill.png"
+  },
+  {
+    "name": "47.circle",
+    "img": "glyphs_white/47.circle.png"
+  },
+  {
+    "name": "47.circle.fill",
+    "img": "glyphs_white/47.circle.fill.png"
+  },
+  {
+    "name": "48.circle",
+    "img": "glyphs_white/48.circle.png"
+  },
+  {
+    "name": "48.circle.fill",
+    "img": "glyphs_white/48.circle.fill.png"
+  },
+  {
+    "name": "49.circle",
+    "img": "glyphs_white/49.circle.png"
+  },
+  {
+    "name": "49.circle.fill",
+    "img": "glyphs_white/49.circle.fill.png"
+  },
+  {
+    "name": "50.circle",
+    "img": "glyphs_white/50.circle.png"
+  },
+  {
+    "name": "50.circle.fill",
+    "img": "glyphs_white/50.circle.fill.png"
+  },
+  {
+    "name": "square",
+    "img": "glyphs_white/square.png"
+  },
+  {
+    "name": "square.fill",
+    "img": "glyphs_white/square.fill.png"
+  },
+  {
+    "name": "square.lefthalf.fill",
+    "img": "glyphs_white/square.lefthalf.fill.png"
+  },
+  {
+    "name": "square.righthalf.fill",
+    "img": "glyphs_white/square.righthalf.fill.png"
+  },
+  {
+    "name": "a.square",
+    "img": "glyphs_white/a.square.png"
+  },
+  {
+    "name": "a.square.fill",
+    "img": "glyphs_white/a.square.fill.png"
+  },
+  {
+    "name": "b.square",
+    "img": "glyphs_white/b.square.png"
+  },
+  {
+    "name": "b.square.fill",
+    "img": "glyphs_white/b.square.fill.png"
+  },
+  {
+    "name": "c.square",
+    "img": "glyphs_white/c.square.png"
+  },
+  {
+    "name": "c.square.fill",
+    "img": "glyphs_white/c.square.fill.png"
+  },
+  {
+    "name": "d.square",
+    "img": "glyphs_white/d.square.png"
+  },
+  {
+    "name": "d.square.fill",
+    "img": "glyphs_white/d.square.fill.png"
+  },
+  {
+    "name": "e.square",
+    "img": "glyphs_white/e.square.png"
+  },
+  {
+    "name": "e.square.fill",
+    "img": "glyphs_white/e.square.fill.png"
+  },
+  {
+    "name": "f.square",
+    "img": "glyphs_white/f.square.png"
+  },
+  {
+    "name": "f.square.fill",
+    "img": "glyphs_white/f.square.fill.png"
+  },
+  {
+    "name": "g.square",
+    "img": "glyphs_white/g.square.png"
+  },
+  {
+    "name": "g.square.fill",
+    "img": "glyphs_white/g.square.fill.png"
+  },
+  {
+    "name": "h.square",
+    "img": "glyphs_white/h.square.png"
+  },
+  {
+    "name": "h.square.fill",
+    "img": "glyphs_white/h.square.fill.png"
+  },
+  {
+    "name": "i.square",
+    "img": "glyphs_white/i.square.png"
+  },
+  {
+    "name": "i.square.fill",
+    "img": "glyphs_white/i.square.fill.png"
+  },
+  {
+    "name": "j.square",
+    "img": "glyphs_white/j.square.png"
+  },
+  {
+    "name": "j.square.fill",
+    "img": "glyphs_white/j.square.fill.png"
+  },
+  {
+    "name": "k.square",
+    "img": "glyphs_white/k.square.png"
+  },
+  {
+    "name": "k.square.fill",
+    "img": "glyphs_white/k.square.fill.png"
+  },
+  {
+    "name": "l.square",
+    "img": "glyphs_white/l.square.png"
+  },
+  {
+    "name": "l.square.fill",
+    "img": "glyphs_white/l.square.fill.png"
+  },
+  {
+    "name": "m.square",
+    "img": "glyphs_white/m.square.png"
+  },
+  {
+    "name": "m.square.fill",
+    "img": "glyphs_white/m.square.fill.png"
+  },
+  {
+    "name": "n.square",
+    "img": "glyphs_white/n.square.png"
+  },
+  {
+    "name": "n.square.fill",
+    "img": "glyphs_white/n.square.fill.png"
+  },
+  {
+    "name": "o.square",
+    "img": "glyphs_white/o.square.png"
+  },
+  {
+    "name": "o.square.fill",
+    "img": "glyphs_white/o.square.fill.png"
+  },
+  {
+    "name": "p.square",
+    "img": "glyphs_white/p.square.png"
+  },
+  {
+    "name": "p.square.fill",
+    "img": "glyphs_white/p.square.fill.png"
+  },
+  {
+    "name": "q.square",
+    "img": "glyphs_white/q.square.png"
+  },
+  {
+    "name": "q.square.fill",
+    "img": "glyphs_white/q.square.fill.png"
+  },
+  {
+    "name": "r.square",
+    "img": "glyphs_white/r.square.png"
+  },
+  {
+    "name": "r.square.fill",
+    "img": "glyphs_white/r.square.fill.png"
+  },
+  {
+    "name": "s.square",
+    "img": "glyphs_white/s.square.png"
+  },
+  {
+    "name": "s.square.fill",
+    "img": "glyphs_white/s.square.fill.png"
+  },
+  {
+    "name": "t.square",
+    "img": "glyphs_white/t.square.png"
+  },
+  {
+    "name": "t.square.fill",
+    "img": "glyphs_white/t.square.fill.png"
+  },
+  {
+    "name": "u.square",
+    "img": "glyphs_white/u.square.png"
+  },
+  {
+    "name": "u.square.fill",
+    "img": "glyphs_white/u.square.fill.png"
+  },
+  {
+    "name": "v.square",
+    "img": "glyphs_white/v.square.png"
+  },
+  {
+    "name": "v.square.fill",
+    "img": "glyphs_white/v.square.fill.png"
+  },
+  {
+    "name": "w.square",
+    "img": "glyphs_white/w.square.png"
+  },
+  {
+    "name": "w.square.fill",
+    "img": "glyphs_white/w.square.fill.png"
+  },
+  {
+    "name": "x.square",
+    "img": "glyphs_white/x.square.png"
+  },
+  {
+    "name": "x.square.fill",
+    "img": "glyphs_white/x.square.fill.png"
+  },
+  {
+    "name": "y.square",
+    "img": "glyphs_white/y.square.png"
+  },
+  {
+    "name": "y.square.fill",
+    "img": "glyphs_white/y.square.fill.png"
+  },
+  {
+    "name": "z.square",
+    "img": "glyphs_white/z.square.png"
+  },
+  {
+    "name": "z.square.fill",
+    "img": "glyphs_white/z.square.fill.png"
+  },
+  {
+    "name": "dollarsign.square",
+    "img": "glyphs_white/dollarsign.square.png"
+  },
+  {
+    "name": "dollarsign.square.fill",
+    "img": "glyphs_white/dollarsign.square.fill.png"
+  },
+  {
+    "name": "centsign.square",
+    "img": "glyphs_white/centsign.square.png"
+  },
+  {
+    "name": "centsign.square.fill",
+    "img": "glyphs_white/centsign.square.fill.png"
+  },
+  {
+    "name": "yensign.square",
+    "img": "glyphs_white/yensign.square.png"
+  },
+  {
+    "name": "yensign.square.fill",
+    "img": "glyphs_white/yensign.square.fill.png"
+  },
+  {
+    "name": "sterlingsign.square",
+    "img": "glyphs_white/sterlingsign.square.png"
+  },
+  {
+    "name": "sterlingsign.square.fill",
+    "img": "glyphs_white/sterlingsign.square.fill.png"
+  },
+  {
+    "name": "francsign.square",
+    "img": "glyphs_white/francsign.square.png"
+  },
+  {
+    "name": "francsign.square.fill",
+    "img": "glyphs_white/francsign.square.fill.png"
+  },
+  {
+    "name": "florinsign.square",
+    "img": "glyphs_white/florinsign.square.png"
+  },
+  {
+    "name": "florinsign.square.fill",
+    "img": "glyphs_white/florinsign.square.fill.png"
+  },
+  {
+    "name": "turkishlirasign.square",
+    "img": "glyphs_white/turkishlirasign.square.png"
+  },
+  {
+    "name": "turkishlirasign.square.fill",
+    "img": "glyphs_white/turkishlirasign.square.fill.png"
+  },
+  {
+    "name": "rublesign.square",
+    "img": "glyphs_white/rublesign.square.png"
+  },
+  {
+    "name": "rublesign.square.fill",
+    "img": "glyphs_white/rublesign.square.fill.png"
+  },
+  {
+    "name": "eurosign.square",
+    "img": "glyphs_white/eurosign.square.png"
+  },
+  {
+    "name": "eurosign.square.fill",
+    "img": "glyphs_white/eurosign.square.fill.png"
+  },
+  {
+    "name": "dongsign.square",
+    "img": "glyphs_white/dongsign.square.png"
+  },
+  {
+    "name": "dongsign.square.fill",
+    "img": "glyphs_white/dongsign.square.fill.png"
+  },
+  {
+    "name": "indianrupeesign.square",
+    "img": "glyphs_white/indianrupeesign.square.png"
+  },
+  {
+    "name": "indianrupeesign.square.fill",
+    "img": "glyphs_white/indianrupeesign.square.fill.png"
+  },
+  {
+    "name": "tengesign.square",
+    "img": "glyphs_white/tengesign.square.png"
+  },
+  {
+    "name": "tengesign.square.fill",
+    "img": "glyphs_white/tengesign.square.fill.png"
+  },
+  {
+    "name": "pesetasign.square",
+    "img": "glyphs_white/pesetasign.square.png"
+  },
+  {
+    "name": "pesetasign.square.fill",
+    "img": "glyphs_white/pesetasign.square.fill.png"
+  },
+  {
+    "name": "pesosign.square",
+    "img": "glyphs_white/pesosign.square.png"
+  },
+  {
+    "name": "pesosign.square.fill",
+    "img": "glyphs_white/pesosign.square.fill.png"
+  },
+  {
+    "name": "kipsign.square",
+    "img": "glyphs_white/kipsign.square.png"
+  },
+  {
+    "name": "kipsign.square.fill",
+    "img": "glyphs_white/kipsign.square.fill.png"
+  },
+  {
+    "name": "wonsign.square",
+    "img": "glyphs_white/wonsign.square.png"
+  },
+  {
+    "name": "wonsign.square.fill",
+    "img": "glyphs_white/wonsign.square.fill.png"
+  },
+  {
+    "name": "lirasign.square",
+    "img": "glyphs_white/lirasign.square.png"
+  },
+  {
+    "name": "lirasign.square.fill",
+    "img": "glyphs_white/lirasign.square.fill.png"
+  },
+  {
+    "name": "australsign.square",
+    "img": "glyphs_white/australsign.square.png"
+  },
+  {
+    "name": "australsign.square.fill",
+    "img": "glyphs_white/australsign.square.fill.png"
+  },
+  {
+    "name": "hryvniasign.square",
+    "img": "glyphs_white/hryvniasign.square.png"
+  },
+  {
+    "name": "hryvniasign.square.fill",
+    "img": "glyphs_white/hryvniasign.square.fill.png"
+  },
+  {
+    "name": "nairasign.square",
+    "img": "glyphs_white/nairasign.square.png"
+  },
+  {
+    "name": "nairasign.square.fill",
+    "img": "glyphs_white/nairasign.square.fill.png"
+  },
+  {
+    "name": "guaranisign.square",
+    "img": "glyphs_white/guaranisign.square.png"
+  },
+  {
+    "name": "guaranisign.square.fill",
+    "img": "glyphs_white/guaranisign.square.fill.png"
+  },
+  {
+    "name": "coloncurrencysign.square",
+    "img": "glyphs_white/coloncurrencysign.square.png"
+  },
+  {
+    "name": "coloncurrencysign.square.fill",
+    "img": "glyphs_white/coloncurrencysign.square.fill.png"
+  },
+  {
+    "name": "cedisign.square",
+    "img": "glyphs_white/cedisign.square.png"
+  },
+  {
+    "name": "cedisign.square.fill",
+    "img": "glyphs_white/cedisign.square.fill.png"
+  },
+  {
+    "name": "cruzeirosign.square",
+    "img": "glyphs_white/cruzeirosign.square.png"
+  },
+  {
+    "name": "cruzeirosign.square.fill",
+    "img": "glyphs_white/cruzeirosign.square.fill.png"
+  },
+  {
+    "name": "tugriksign.square",
+    "img": "glyphs_white/tugriksign.square.png"
+  },
+  {
+    "name": "tugriksign.square.fill",
+    "img": "glyphs_white/tugriksign.square.fill.png"
+  },
+  {
+    "name": "millsign.square",
+    "img": "glyphs_white/millsign.square.png"
+  },
+  {
+    "name": "millsign.square.fill",
+    "img": "glyphs_white/millsign.square.fill.png"
+  },
+  {
+    "name": "sheqelsign.square",
+    "img": "glyphs_white/sheqelsign.square.png"
+  },
+  {
+    "name": "sheqelsign.square.fill",
+    "img": "glyphs_white/sheqelsign.square.fill.png"
+  },
+  {
+    "name": "manatsign.square",
+    "img": "glyphs_white/manatsign.square.png"
+  },
+  {
+    "name": "manatsign.square.fill",
+    "img": "glyphs_white/manatsign.square.fill.png"
+  },
+  {
+    "name": "rupeesign.square",
+    "img": "glyphs_white/rupeesign.square.png"
+  },
+  {
+    "name": "rupeesign.square.fill",
+    "img": "glyphs_white/rupeesign.square.fill.png"
+  },
+  {
+    "name": "bahtsign.square",
+    "img": "glyphs_white/bahtsign.square.png"
+  },
+  {
+    "name": "bahtsign.square.fill",
+    "img": "glyphs_white/bahtsign.square.fill.png"
+  },
+  {
+    "name": "larisign.square",
+    "img": "glyphs_white/larisign.square.png"
+  },
+  {
+    "name": "larisign.square.fill",
+    "img": "glyphs_white/larisign.square.fill.png"
+  },
+  {
+    "name": "bitcoinsign.square",
+    "img": "glyphs_white/bitcoinsign.square.png"
+  },
+  {
+    "name": "bitcoinsign.square.fill",
+    "img": "glyphs_white/bitcoinsign.square.fill.png"
+  },
+  {
+    "name": "0.square",
+    "img": "glyphs_white/0.square.png"
+  },
+  {
+    "name": "0.square.fill",
+    "img": "glyphs_white/0.square.fill.png"
+  },
+  {
+    "name": "1.square",
+    "img": "glyphs_white/1.square.png"
+  },
+  {
+    "name": "1.square.fill",
+    "img": "glyphs_white/1.square.fill.png"
+  },
+  {
+    "name": "2.square",
+    "img": "glyphs_white/2.square.png"
+  },
+  {
+    "name": "2.square.fill",
+    "img": "glyphs_white/2.square.fill.png"
+  },
+  {
+    "name": "3.square",
+    "img": "glyphs_white/3.square.png"
+  },
+  {
+    "name": "3.square.fill",
+    "img": "glyphs_white/3.square.fill.png"
+  },
+  {
+    "name": "4.square",
+    "img": "glyphs_white/4.square.png"
+  },
+  {
+    "name": "4.square.fill",
+    "img": "glyphs_white/4.square.fill.png"
+  },
+  {
+    "name": "4.alt.square",
+    "img": "glyphs_white/4.alt.square.png"
+  },
+  {
+    "name": "4.alt.square.fill",
+    "img": "glyphs_white/4.alt.square.fill.png"
+  },
+  {
+    "name": "5.square",
+    "img": "glyphs_white/5.square.png"
+  },
+  {
+    "name": "5.square.fill",
+    "img": "glyphs_white/5.square.fill.png"
+  },
+  {
+    "name": "6.square",
+    "img": "glyphs_white/6.square.png"
+  },
+  {
+    "name": "6.square.fill",
+    "img": "glyphs_white/6.square.fill.png"
+  },
+  {
+    "name": "6.alt.square",
+    "img": "glyphs_white/6.alt.square.png"
+  },
+  {
+    "name": "6.alt.square.fill",
+    "img": "glyphs_white/6.alt.square.fill.png"
+  },
+  {
+    "name": "7.square",
+    "img": "glyphs_white/7.square.png"
+  },
+  {
+    "name": "7.square.fill",
+    "img": "glyphs_white/7.square.fill.png"
+  },
+  {
+    "name": "8.square",
+    "img": "glyphs_white/8.square.png"
+  },
+  {
+    "name": "8.square.fill",
+    "img": "glyphs_white/8.square.fill.png"
+  },
+  {
+    "name": "9.square",
+    "img": "glyphs_white/9.square.png"
+  },
+  {
+    "name": "9.square.fill",
+    "img": "glyphs_white/9.square.fill.png"
+  },
+  {
+    "name": "9.alt.square",
+    "img": "glyphs_white/9.alt.square.png"
+  },
+  {
+    "name": "9.alt.square.fill",
+    "img": "glyphs_white/9.alt.square.fill.png"
+  },
+  {
+    "name": "00.square",
+    "img": "glyphs_white/00.square.png"
+  },
+  {
+    "name": "00.square.fill",
+    "img": "glyphs_white/00.square.fill.png"
+  },
+  {
+    "name": "01.square",
+    "img": "glyphs_white/01.square.png"
+  },
+  {
+    "name": "01.square.fill",
+    "img": "glyphs_white/01.square.fill.png"
+  },
+  {
+    "name": "02.square",
+    "img": "glyphs_white/02.square.png"
+  },
+  {
+    "name": "02.square.fill",
+    "img": "glyphs_white/02.square.fill.png"
+  },
+  {
+    "name": "03.square",
+    "img": "glyphs_white/03.square.png"
+  },
+  {
+    "name": "03.square.fill",
+    "img": "glyphs_white/03.square.fill.png"
+  },
+  {
+    "name": "04.square",
+    "img": "glyphs_white/04.square.png"
+  },
+  {
+    "name": "04.square.fill",
+    "img": "glyphs_white/04.square.fill.png"
+  },
+  {
+    "name": "05.square",
+    "img": "glyphs_white/05.square.png"
+  },
+  {
+    "name": "05.square.fill",
+    "img": "glyphs_white/05.square.fill.png"
+  },
+  {
+    "name": "06.square",
+    "img": "glyphs_white/06.square.png"
+  },
+  {
+    "name": "06.square.fill",
+    "img": "glyphs_white/06.square.fill.png"
+  },
+  {
+    "name": "07.square",
+    "img": "glyphs_white/07.square.png"
+  },
+  {
+    "name": "07.square.fill",
+    "img": "glyphs_white/07.square.fill.png"
+  },
+  {
+    "name": "08.square",
+    "img": "glyphs_white/08.square.png"
+  },
+  {
+    "name": "08.square.fill",
+    "img": "glyphs_white/08.square.fill.png"
+  },
+  {
+    "name": "09.square",
+    "img": "glyphs_white/09.square.png"
+  },
+  {
+    "name": "09.square.fill",
+    "img": "glyphs_white/09.square.fill.png"
+  },
+  {
+    "name": "10.square",
+    "img": "glyphs_white/10.square.png"
+  },
+  {
+    "name": "10.square.fill",
+    "img": "glyphs_white/10.square.fill.png"
+  },
+  {
+    "name": "11.square",
+    "img": "glyphs_white/11.square.png"
+  },
+  {
+    "name": "11.square.fill",
+    "img": "glyphs_white/11.square.fill.png"
+  },
+  {
+    "name": "12.square",
+    "img": "glyphs_white/12.square.png"
+  },
+  {
+    "name": "12.square.fill",
+    "img": "glyphs_white/12.square.fill.png"
+  },
+  {
+    "name": "13.square",
+    "img": "glyphs_white/13.square.png"
+  },
+  {
+    "name": "13.square.fill",
+    "img": "glyphs_white/13.square.fill.png"
+  },
+  {
+    "name": "14.square",
+    "img": "glyphs_white/14.square.png"
+  },
+  {
+    "name": "14.square.fill",
+    "img": "glyphs_white/14.square.fill.png"
+  },
+  {
+    "name": "15.square",
+    "img": "glyphs_white/15.square.png"
+  },
+  {
+    "name": "15.square.fill",
+    "img": "glyphs_white/15.square.fill.png"
+  },
+  {
+    "name": "16.square",
+    "img": "glyphs_white/16.square.png"
+  },
+  {
+    "name": "16.square.fill",
+    "img": "glyphs_white/16.square.fill.png"
+  },
+  {
+    "name": "17.square",
+    "img": "glyphs_white/17.square.png"
+  },
+  {
+    "name": "17.square.fill",
+    "img": "glyphs_white/17.square.fill.png"
+  },
+  {
+    "name": "18.square",
+    "img": "glyphs_white/18.square.png"
+  },
+  {
+    "name": "18.square.fill",
+    "img": "glyphs_white/18.square.fill.png"
+  },
+  {
+    "name": "19.square",
+    "img": "glyphs_white/19.square.png"
+  },
+  {
+    "name": "19.square.fill",
+    "img": "glyphs_white/19.square.fill.png"
+  },
+  {
+    "name": "20.square",
+    "img": "glyphs_white/20.square.png"
+  },
+  {
+    "name": "20.square.fill",
+    "img": "glyphs_white/20.square.fill.png"
+  },
+  {
+    "name": "21.square",
+    "img": "glyphs_white/21.square.png"
+  },
+  {
+    "name": "21.square.fill",
+    "img": "glyphs_white/21.square.fill.png"
+  },
+  {
+    "name": "22.square",
+    "img": "glyphs_white/22.square.png"
+  },
+  {
+    "name": "22.square.fill",
+    "img": "glyphs_white/22.square.fill.png"
+  },
+  {
+    "name": "23.square",
+    "img": "glyphs_white/23.square.png"
+  },
+  {
+    "name": "23.square.fill",
+    "img": "glyphs_white/23.square.fill.png"
+  },
+  {
+    "name": "24.square",
+    "img": "glyphs_white/24.square.png"
+  },
+  {
+    "name": "24.square.fill",
+    "img": "glyphs_white/24.square.fill.png"
+  },
+  {
+    "name": "25.square",
+    "img": "glyphs_white/25.square.png"
+  },
+  {
+    "name": "25.square.fill",
+    "img": "glyphs_white/25.square.fill.png"
+  },
+  {
+    "name": "26.square",
+    "img": "glyphs_white/26.square.png"
+  },
+  {
+    "name": "26.square.fill",
+    "img": "glyphs_white/26.square.fill.png"
+  },
+  {
+    "name": "27.square",
+    "img": "glyphs_white/27.square.png"
+  },
+  {
+    "name": "27.square.fill",
+    "img": "glyphs_white/27.square.fill.png"
+  },
+  {
+    "name": "28.square",
+    "img": "glyphs_white/28.square.png"
+  },
+  {
+    "name": "28.square.fill",
+    "img": "glyphs_white/28.square.fill.png"
+  },
+  {
+    "name": "29.square",
+    "img": "glyphs_white/29.square.png"
+  },
+  {
+    "name": "29.square.fill",
+    "img": "glyphs_white/29.square.fill.png"
+  },
+  {
+    "name": "30.square",
+    "img": "glyphs_white/30.square.png"
+  },
+  {
+    "name": "30.square.fill",
+    "img": "glyphs_white/30.square.fill.png"
+  },
+  {
+    "name": "31.square",
+    "img": "glyphs_white/31.square.png"
+  },
+  {
+    "name": "31.square.fill",
+    "img": "glyphs_white/31.square.fill.png"
+  },
+  {
+    "name": "32.square",
+    "img": "glyphs_white/32.square.png"
+  },
+  {
+    "name": "32.square.fill",
+    "img": "glyphs_white/32.square.fill.png"
+  },
+  {
+    "name": "33.square",
+    "img": "glyphs_white/33.square.png"
+  },
+  {
+    "name": "33.square.fill",
+    "img": "glyphs_white/33.square.fill.png"
+  },
+  {
+    "name": "34.square",
+    "img": "glyphs_white/34.square.png"
+  },
+  {
+    "name": "34.square.fill",
+    "img": "glyphs_white/34.square.fill.png"
+  },
+  {
+    "name": "35.square",
+    "img": "glyphs_white/35.square.png"
+  },
+  {
+    "name": "35.square.fill",
+    "img": "glyphs_white/35.square.fill.png"
+  },
+  {
+    "name": "36.square",
+    "img": "glyphs_white/36.square.png"
+  },
+  {
+    "name": "36.square.fill",
+    "img": "glyphs_white/36.square.fill.png"
+  },
+  {
+    "name": "37.square",
+    "img": "glyphs_white/37.square.png"
+  },
+  {
+    "name": "37.square.fill",
+    "img": "glyphs_white/37.square.fill.png"
+  },
+  {
+    "name": "38.square",
+    "img": "glyphs_white/38.square.png"
+  },
+  {
+    "name": "38.square.fill",
+    "img": "glyphs_white/38.square.fill.png"
+  },
+  {
+    "name": "39.square",
+    "img": "glyphs_white/39.square.png"
+  },
+  {
+    "name": "39.square.fill",
+    "img": "glyphs_white/39.square.fill.png"
+  },
+  {
+    "name": "40.square",
+    "img": "glyphs_white/40.square.png"
+  },
+  {
+    "name": "40.square.fill",
+    "img": "glyphs_white/40.square.fill.png"
+  },
+  {
+    "name": "41.square",
+    "img": "glyphs_white/41.square.png"
+  },
+  {
+    "name": "41.square.fill",
+    "img": "glyphs_white/41.square.fill.png"
+  },
+  {
+    "name": "42.square",
+    "img": "glyphs_white/42.square.png"
+  },
+  {
+    "name": "42.square.fill",
+    "img": "glyphs_white/42.square.fill.png"
+  },
+  {
+    "name": "43.square",
+    "img": "glyphs_white/43.square.png"
+  },
+  {
+    "name": "43.square.fill",
+    "img": "glyphs_white/43.square.fill.png"
+  },
+  {
+    "name": "44.square",
+    "img": "glyphs_white/44.square.png"
+  },
+  {
+    "name": "44.square.fill",
+    "img": "glyphs_white/44.square.fill.png"
+  },
+  {
+    "name": "45.square",
+    "img": "glyphs_white/45.square.png"
+  },
+  {
+    "name": "45.square.fill",
+    "img": "glyphs_white/45.square.fill.png"
+  },
+  {
+    "name": "46.square",
+    "img": "glyphs_white/46.square.png"
+  },
+  {
+    "name": "46.square.fill",
+    "img": "glyphs_white/46.square.fill.png"
+  },
+  {
+    "name": "47.square",
+    "img": "glyphs_white/47.square.png"
+  },
+  {
+    "name": "47.square.fill",
+    "img": "glyphs_white/47.square.fill.png"
+  },
+  {
+    "name": "48.square",
+    "img": "glyphs_white/48.square.png"
+  },
+  {
+    "name": "48.square.fill",
+    "img": "glyphs_white/48.square.fill.png"
+  },
+  {
+    "name": "49.square",
+    "img": "glyphs_white/49.square.png"
+  },
+  {
+    "name": "49.square.fill",
+    "img": "glyphs_white/49.square.fill.png"
+  },
+  {
+    "name": "50.square",
+    "img": "glyphs_white/50.square.png"
+  },
+  {
+    "name": "50.square.fill",
+    "img": "glyphs_white/50.square.fill.png"
+  }
+]
